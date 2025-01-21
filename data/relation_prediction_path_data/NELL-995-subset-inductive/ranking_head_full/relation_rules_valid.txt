@@ -1,0 +1,2719 @@
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:agentcompeteswithagent	{concept:sportfansincountry}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:sportfansincountry}^-1	
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:personbornincity	concept:citylocatedincountry	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	concept:sportsgameteam	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+3
+strict	{concept:statehascapital}^-1	concept:subpartof	
+strict	concept:locationlocatedwithinlocation	concept:subpartof	
+strict	{concept:stateorprovinceisborderedbystateorprovince}^-1	concept:subpartof	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:sportsgameteam	
+1
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:agentcompeteswithagent	{concept:sportfansincountry}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:sportfansincountry}^-1	
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+1
+strict	concept:leaguestadiums	concept:stadiumlocatedincity	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+3
+strict	{concept:statehascapital}^-1	concept:subpartof	
+strict	concept:locationlocatedwithinlocation	concept:subpartof	
+strict	{concept:stateorprovinceisborderedbystateorprovince}^-1	concept:subpartof	
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:sportsgameteam	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+3
+strict	{concept:statehascapital}^-1	concept:subpartof	
+strict	concept:locationlocatedwithinlocation	concept:subpartof	
+strict	{concept:stateorprovinceisborderedbystateorprovince}^-1	concept:subpartof	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	concept:sportsgameteam	
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:subpartoforganization	concept:hasofficeincity	
+strict	{concept:hasofficeincountry}^-1	concept:hasofficeincity	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:leaguestadiums	concept:stadiumlocatedincity	
+0
+0
+0
+0
+1
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:agentcompeteswithagent	{concept:sportfansincountry}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:sportfansincountry}^-1	
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:leaguestadiums	concept:stadiumlocatedincity	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplayssport}^-1	concept:teamplaysincity	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	{concept:cityliesonriver}^-1	{concept:citylocatedingeopoliticallocation}^-1	
+strict	{concept:istallerthan}^-1	{concept:citylocatedingeopoliticallocation}^-1	
+strict	{concept:agentactsinlocation}^-1	{concept:citylocatedingeopoliticallocation}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+1
+strict	{concept:teamplayssport}^-1	concept:teamplaysincity	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:agentcompeteswithagent	{concept:sportfansincountry}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:sportfansincountry}^-1	
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:sportschoolincountry	{concept:sportfansincountry}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplayssport}^-1	concept:teamplaysincity	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+0
+0
+0
+0
+1
+strict	{concept:companyeconomicsector}^-1	{concept:competeswith}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+1
+strict	concept:sportsgameteam	
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+1
+strict	{concept:agentparticipatedinevent}^-1	concept:teamplaysagainstteam	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	{concept:teamplaysinleague}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:agentparticipatedinevent}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0

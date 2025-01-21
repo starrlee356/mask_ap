@@ -1,0 +1,2599 @@
+3
+/m/022q32	/m/015pkc	
+/m/022q32	/m/01jr6	/m/011yth	/m/02_286	/m/04fzk	/m/015pkc	
+/m/022q32	/m/01jr6	/m/011yth	/m/02_286	/m/0127s7	/m/015pkc	
+0
+0
+0
+0
+1
+/m/04ly1	/m/02vkzcx	
+1
+/m/04ly1	/m/03x33n	/m/01wlt3k	/m/01ws9n6	/m/016z4k	
+0
+1
+/m/04ly1	/m/072w0	/m/0rh6k	/m/0pd64	/m/016tt2	/m/08hp53	
+1
+/m/04ly1	/m/02bn_p	/m/02bqmq	/m/02cg7g	
+3
+/m/08052t3	/m/02vzc	/m/060bp	/m/05sb1	
+/m/08052t3	/m/0d060g	/m/05zlld0	/m/05sb1	
+/m/08052t3	/m/0d060g	/m/028d4v	/m/018gz8	/m/0894_x	/m/05sb1	
+0
+0
+2
+/m/08052t3	/m/0d060g	/m/06nm1	/m/01wj18h	/m/02681_5	
+/m/08052t3	/m/0d060g	/m/06nm1	/m/01304j	/m/08pc1x	/m/02681_5	
+2
+/m/08052t3	/m/0d060g	/m/0274ck	/m/016z4k	/m/01m15br	/m/03xgm3	
+/m/08052t3	/m/0d060g	/m/0274ck	/m/016z4k	/m/02cx90	/m/03xgm3	
+3
+/m/02fwfb	/m/0184jc	/m/017z49	/m/02x4wr9	/m/0209xj	/m/01t_vv	
+/m/02fwfb	/m/0184jc	/m/017z49	/m/0d060g	/m/020bv3	/m/01t_vv	
+/m/02fwfb	/m/0184jc	/m/0kszw	/m/02y_rq5	/m/03c_cxn	/m/01t_vv	
+1
+/m/02fwfb	/m/0184jc	/m/017z49	/m/0d060g	/m/06nm1	/m/01304j	
+0
+2
+/m/02fwfb	/m/0184jc	/m/0kszw	/m/02y_rq5	
+/m/02fwfb	/m/0gfmc_	/m/02_kd	/m/02l4rh	/m/01hkhq	/m/02y_rq5	
+1
+/m/02fwfb	/m/0184jc	/m/0c35b1	/m/0x67	/m/0bv7t	/m/071cn	
+3
+/m/0dgrwqr	/m/02vzc	/m/02j9z	/m/04v3q	
+/m/0dgrwqr	/m/02vzc	/m/060c4	/m/04v3q	
+/m/0dgrwqr	/m/02vzc	/m/060bp	/m/04v3q	
+1
+/m/0dgrwqr	/m/02_286	/m/0161sp	/m/0x67	/m/09f0bj	/m/06s6hs	
+3
+/m/0dgrwqr	/m/02vzc	/m/03_8r	/m/0jkvj	
+/m/0dgrwqr	/m/02vzc	/m/03hr1p	/m/0jkvj	
+/m/0dgrwqr	/m/02vzc	/m/0lbbj	/m/06mzp	/m/0jkvj	
+1
+/m/0dgrwqr	/m/02vzc	/m/02j9z	/m/049nq	/m/0j11	
+1
+/m/0dgrwqr	/m/02_286	/m/01q2nx	/m/05qd_	/m/012gk9	
+3
+/m/01p4vl	/m/0fphf3v	/m/04v3q	/m/0ds5_72	/m/015pxr	/m/018gz8	
+/m/01p4vl	/m/0fphf3v	/m/06cgy	/m/02_286	/m/01lct6	/m/018gz8	
+/m/01p4vl	/m/0fphf3v	/m/06cgy	/m/02_286	/m/02_n5d	/m/018gz8	
+0
+0
+0
+2
+/m/01p4vl	/m/0fphf3v	/m/02vzc	/m/017gl1	/m/02kdv5l	/m/03k8th	
+/m/01p4vl	/m/0fphf3v	/m/04v3q	/m/0ds5_72	/m/02s2ft	/m/03k8th	
+1
+/m/02xj3rw	/m/0683n	
+3
+/m/02xj3rw	/m/0683n	/m/03f0324	/m/041rx	
+/m/02xj3rw	/m/0683n	/m/084w8	/m/0ff3y	/m/041rx	
+/m/02xj3rw	/m/0294mx	/m/017fp	/m/0k5px	/m/0m9c1	/m/041rx	
+0
+1
+/m/02xj3rw	/m/0683n	/m/03f0324	/m/0lrh	/m/02_286	/m/03m2fg	
+3
+/m/02xj3rw	/m/0294mx	/m/017fp	/m/034hzj	/m/027dtxw	/m/020bv3	
+/m/02xj3rw	/m/0294mx	/m/017fp	/m/0g4pl7z	/m/064_8sq	/m/020bv3	
+/m/02xj3rw	/m/0294mx	/m/017fp	/m/0g4pl7z	/m/0d060g	/m/020bv3	
+0
+3
+/m/06s6hs	/m/09f0bj	/m/0x67	/m/0pmhf	
+/m/06s6hs	/m/09f0bj	/m/02d413	/m/0pmhf	
+/m/06s6hs	/m/09f0bj	/m/0x67	/m/0161sp	/m/0pmhf	
+1
+/m/06s6hs	/m/09f0bj	/m/0x67	/m/01l1b90	/m/05zlld0	
+0
+1
+/m/06s6hs	/m/09f0bj	/m/0x67	/m/0bv7t	/m/02_286	/m/03m2fg	
+0
+0
+1
+/m/0k_kr	/m/01vn0t_	/m/0dq9p	/m/0c921	/m/041rx	/m/0175wg	
+1
+/m/0k_kr	/m/01vn0t_	/m/0dq9p	/m/0c921	/m/0gq9h	/m/083skw	
+1
+/m/0k_kr	/m/01vn0t_	/m/0dq9p	/m/0c921	/m/03nqnk3	
+1
+/m/0x67	/m/01l1b90	/m/05zlld0	/m/0d060g	/m/022q4l9	/m/080knyg	
+1
+/m/0x67	/m/01ws9n6	/m/016z4k	/m/01bpc9	/m/016zgj	
+1
+/m/0x67	/m/0bv7t	/m/02_286	/m/01vlj1g	/m/02nwxc	/m/02pg45	
+1
+/m/0x67	/m/0770cd	/m/01s0ps	/m/0l1589	
+3
+/m/0x67	/m/0pmhf	/m/023gxx	/m/017fp	/m/047n8xt	
+/m/0x67	/m/0bv7t	/m/02_286	/m/0crh5_f	/m/0cj16	/m/047n8xt	
+/m/0x67	/m/04pp9s	/m/05sy_5	/m/0gq9h	/m/02z2xdf	/m/047n8xt	
+3
+/m/0x67	/m/0bv7t	/m/02_286	/m/0126y2	
+/m/0x67	/m/0770cd	/m/025sc50	/m/0126y2	
+/m/0x67	/m/01l1b90	/m/01kgxf	/m/0ct2tf5	/m/0126y2	
+3
+/m/0x67	/m/01l1b90	/m/05zlld0	/m/0d060g	
+/m/0x67	/m/01ws9n6	/m/016z4k	/m/0274ck	/m/0d060g	
+/m/0x67	/m/0bv7t	/m/02_286	/m/01hlwv	/m/0d060g	
+0
+2
+/m/0x67	/m/01900g	/m/06cgy	/m/0bzk2h	/m/033rq	
+/m/0x67	/m/0bv7t	/m/02_286	/m/019pkm	/m/03nqnk3	/m/033rq	
+3
+/m/0x67	/m/0bv7t	/m/02_286	/m/024lt6	
+/m/0x67	/m/01l1b90	/m/05zlld0	/m/06nm1	/m/024lt6	
+/m/0x67	/m/0pmhf	/m/023gxx	/m/02vzc	/m/024lt6	
+3
+/m/03m8y5	/m/02_286	/m/016z43	/m/01t_vv	
+/m/03m8y5	/m/02_286	/m/01_f_5	/m/0209xj	/m/01t_vv	
+/m/03m8y5	/m/02_286	/m/01hlwv	/m/0d060g	/m/020bv3	/m/01t_vv	
+2
+/m/03m8y5	/m/02_286	/m/0992d9	
+/m/03m8y5	/m/02_286	/m/06cgy	/m/0992d9	
+3
+/m/03m8y5	/m/02_286	/m/01hlwv	/m/0d060g	/m/0lbbj	
+/m/03m8y5	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/0lbbj	
+/m/03m8y5	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/03_8r	/m/0lbbj	
+2
+/m/03m8y5	/m/02_286	/m/0161sp	/m/016z4k	/m/0m_31	/m/0249kn	
+/m/03m8y5	/m/02_286	/m/0161sp	/m/016z4k	/m/02cx90	/m/0249kn	
+0
+3
+/m/01pvxl	/m/016tt2	
+/m/01pvxl	/m/04fzk	/m/02_286	/m/08hp53	/m/016tt2	
+/m/01pvxl	/m/01ccr8	/m/018gz8	/m/0hskw	/m/0gq9h	/m/016tt2	
+1
+/m/01pvxl	/m/04fzk	/m/02_286	/m/01bpc9	/m/016zgj	
+1
+/m/01pvxl	/m/04fzk	/m/02_286	/m/0161sp	/m/016z4k	/m/0411q	
+3
+/m/01pvxl	/m/016tt2	/m/0gq9h	
+/m/01pvxl	/m/016tt2	/m/0pd64	/m/0gq9h	
+/m/01pvxl	/m/016tt2	/m/01jc6q	/m/0gq9h	
+0
+0
+2
+/m/016zgj	/m/01bpc9	/m/02_286	/m/02x8fs	/m/0d608	
+/m/016zgj	/m/01bpc9	/m/02_286	/m/01t6b4	/m/0pc62	/m/0d608	
+1
+/m/016zgj	/m/01bpc9	/m/016z4k	/m/03y82t6	/m/02bc74	
+0
+1
+/m/016zgj	/m/01bpc9	/m/02_286	/m/019pkm	/m/03nqnk3	
+3
+/m/09f0bj	/m/06s6hs	
+/m/09f0bj	/m/05np4c	/m/06s6hs	
+/m/09f0bj	/m/0k2mxq	/m/06s6hs	
+0
+0
+3
+/m/09f0bj	/m/0x67	/m/01900g	/m/05q5t0b	/m/02l4rh	/m/06j8wx	
+/m/09f0bj	/m/0cqh6z	/m/0gvsh7l	/m/0lp_cd3	/m/0524b41	/m/06j8wx	
+/m/09f0bj	/m/0k2mxq	/m/016z9n	/m/017fp	/m/02chhq	/m/06j8wx	
+3
+/m/09f0bj	/m/0x67	/m/0770cd	/m/025sc50	
+/m/09f0bj	/m/0x67	/m/01wzlxj	/m/025sc50	
+/m/09f0bj	/m/0x67	/m/01ws9n6	/m/016z4k	/m/01wj18h	/m/025sc50	
+3
+/m/0127s7	/m/015pkc	
+/m/0127s7	/m/02_286	/m/04fzk	/m/015pkc	
+/m/0127s7	/m/01c99j	/m/03y82t6	/m/0ds5_72	/m/02s2ft	/m/015pkc	
+1
+/m/0127s7	/m/01c99j	/m/01vwbts	/m/09f2j	/m/05jxkf	/m/0269kx	
+1
+/m/0127s7	/m/02_286	/m/01vlj1g	/m/02nwxc	/m/02pg45	
+1
+/m/0127s7	/m/01c99j	/m/01vwbts	/m/09f2j	/m/05jxkf	/m/03x33n	
+2
+/m/0127s7	/m/015pkc	/m/04fzk	/m/01pvxl	/m/0dn3n	
+/m/0127s7	/m/01c99j	/m/0gdh5	/m/014_x2	/m/0dn3n	
+1
+/m/09kvv	/m/01rc4p	
+0
+3
+/m/09kvv	/m/060c4	/m/02vzc	/m/024lt6	/m/02x4wr9	
+/m/09kvv	/m/060c4	/m/02vzc	/m/0gmcwlb	/m/02x4wr9	
+/m/09kvv	/m/060c4	/m/016tt2	/m/03pc89	/m/015c4g	/m/02x4wr9	
+0
+0
+3
+/m/06mzp	/m/03hr1p	/m/0l6ny	
+/m/06mzp	/m/064_8sq	/m/0d060g	/m/0l6ny	
+/m/06mzp	/m/0lbbj	/m/02vzc	/m/0l6ny	
+2
+/m/06mzp	/m/064_8sq	/m/01sbv9	/m/01zhp	
+/m/06mzp	/m/064_8sq	/m/0d060g	/m/087wc7n	/m/01zhp	
+0
+1
+/m/06mzp	/m/064_8sq	/m/0gxfz	/m/0bw87	/m/0gmtm	/m/012gbb	
+3
+/m/06mzp	/m/023gxx	/m/017fp	/m/047n8xt	
+/m/06mzp	/m/08052t3	/m/0cj16	/m/047n8xt	
+/m/06mzp	/m/0gmcwlb	/m/0gq9h	/m/02z2xdf	/m/047n8xt	
+3
+/m/0kz2w	/m/060c4	/m/09kvv	/m/05pcjw	
+/m/0kz2w	/m/060c4	/m/06fq2	/m/05pcjw	
+/m/0kz2w	/m/083jv	/m/01q8hj	/m/05pcjw	
+3
+/m/0kz2w	/m/060c4	/m/09kvv	
+/m/0kz2w	/m/060c4	/m/083q7	/m/09kvv	
+/m/0kz2w	/m/060c4	/m/06fq2	/m/05pcjw	/m/09kvv	
+1
+/m/0kz2w	/m/083jv	/m/03lpp_	/m/02sddg	/m/049n7	
+1
+/m/0kz2w	/m/083jv	/m/02mg5r	/m/05jxkf	/m/07w5rq	
+0
+2
+/m/011j5x	/m/02x8m	/m/01w8n89	/m/0hdf8	/m/0326tc	
+/m/011j5x	/m/014pg1	/m/07gql	/m/01s0ps	/m/0326tc	
+1
+/m/011j5x	/m/02cpp	/m/02p3cr5	/m/01vn0t_	/m/0k_kr	
+0
+0
+0
+1
+/m/0411q	/m/016z4k	/m/01nn3m	/m/01s0ps	/m/0dq630k	/m/01qzyz	
+0
+0
+1
+/m/0411q	/m/016z4k	/m/03f0fnk	/m/02_286	/m/01xndd	
+0
+1
+/m/011j5x	/m/02x8m	/m/01wzlxj	/m/016z4k	/m/01dw_f	/m/06cqb	
+0
+0
+2
+/m/011j5x	/m/02x8m	/m/01wzlxj	/m/0x67	/m/0bv7t	
+/m/011j5x	/m/02x8m	/m/046p9	/m/03mp8k	/m/02_286	/m/0bv7t	
+3
+/m/011j5x	/m/02x8m	/m/01wzlxj	/m/016z4k	/m/01m15br	
+/m/011j5x	/m/014pg1	/m/07gql	/m/03xgm3	/m/01m15br	
+/m/011j5x	/m/02x8m	/m/01wzlxj	/m/0x67	/m/01l4zqz	/m/01m15br	
+2
+/m/05qd_	/m/0bmpm	
+/m/05qd_	/m/0gq9h	/m/0bmpm	
+0
+0
+2
+/m/05qd_	/m/0df2zx	/m/09q17	/m/0372j5	
+/m/05qd_	/m/0m491	/m/02vzc	/m/0372j5	
+1
+/m/05qd_	/m/0m491	/m/01vlj1g	/m/02nwxc	/m/02pg45	
+3
+/m/0d608	/m/0pc62	/m/064_8sq	/m/0d060g	
+/m/0d608	/m/0pc62	/m/020h2v	/m/0jjy0	/m/0d060g	
+/m/0d608	/m/0pc62	/m/064_8sq	/m/06nm1	/m/0d060g	
+2
+/m/0d608	/m/0pc62	/m/01t6b4	/m/041rx	/m/01nvmd_	
+/m/0d608	/m/02x8fs	/m/02_286	/m/0crh5_f	/m/01_d4	/m/01nvmd_	
+2
+/m/0d608	/m/02x8fs	/m/02_286	/m/03mp8k	/m/01vxlbm	
+/m/0d608	/m/02x8fs	/m/02_286	/m/0126y2	/m/025sc50	/m/01vxlbm	
+1
+/m/0d608	/m/0pc62	/m/064_8sq	/m/01sbv9	/m/01zhp	/m/05650n	
+0
+3
+/m/01wj18h	/m/03mp8k	/m/01vwbts	/m/02f73p	
+/m/01wj18h	/m/03mp8k	/m/046p9	/m/02f73p	
+/m/01wj18h	/m/016z4k	/m/01vv7sc	/m/02f73p	
+3
+/m/01wj18h	/m/06nm1	/m/05zlld0	/m/02kdv5l	/m/05szq8z	/m/0d2b38	
+/m/01wj18h	/m/06nm1	/m/05zlld0	/m/02kdv5l	/m/05t0_2v	/m/0d2b38	
+/m/01wj18h	/m/06nm1	/m/05zlld0	/m/02kdv5l	/m/076xkps	/m/0d2b38	
+0
+1
+/m/01wj18h	/m/06nm1	/m/05zlld0	/m/02kdv5l	/m/035s95	/m/01z_g6	
+3
+/m/01wj18h	/m/03y82t6	/m/0ds5_72	/m/02s2ft	
+/m/01wj18h	/m/025sc50	/m/0127s7	/m/015pkc	/m/02s2ft	
+/m/01wj18h	/m/06nm1	/m/064_8sq	/m/020bv3	/m/027dtxw	/m/02s2ft	
+1
+/m/02681_5	/m/01wj18h	/m/02681xs	/m/092868	
+1
+/m/02681_5	/m/01wj18h	/m/016z4k	/m/01bpc9	/m/016zgj	
+3
+/m/02681_5	/m/01wj18h	/m/03mp8k	/m/046p9	/m/02x8m	
+/m/02681_5	/m/01wj18h	/m/025sc50	/m/01wzlxj	/m/02x8m	
+/m/02681_5	/m/01wj18h	/m/025sc50	/m/01wk7ql	/m/02x8m	
+0
+2
+/m/02681_5	/m/01wj18h	/m/06nm1	/m/02rn00y	/m/05qb8vx	/m/0gq_d	
+/m/02681_5	/m/01wj18h	/m/06nm1	/m/05zlld0	/m/05qd_	/m/0gq_d	
+1
+/m/02x8m	/m/046p9	/m/03mp8k	/m/01wj18h	/m/06nm1	/m/01304j	
+1
+/m/02x8m	/m/01wzlxj	/m/0x67	/m/04pp9s	/m/0kz2w	
+2
+/m/02x8m	/m/01wzlxj	/m/0x67	/m/0pmhf	/m/023gxx	/m/017fp	
+/m/02x8m	/m/01wzlxj	/m/0x67	/m/0pmhf	/m/034hzj	/m/017fp	
+3
+/m/02x8m	/m/01wzlxj	/m/025sc50	/m/044mfr	/m/041rx	
+/m/02x8m	/m/046p9	/m/03mp8k	/m/02_286	/m/014x77	/m/041rx	
+/m/02x8m	/m/046p9	/m/03mp8k	/m/02_286	/m/08hp53	/m/041rx	
+2
+/m/02x8m	/m/01wzlxj	/m/0x67	/m/0pmhf	/m/05vsxz	/m/020bv3	
+/m/02x8m	/m/01wzlxj	/m/016z4k	/m/0274ck	/m/0d060g	/m/020bv3	
+2
+/m/0d060g	/m/064_8sq	/m/06dfg	/m/018wl5	
+/m/0d060g	/m/0l6ny	/m/02vzc	/m/02j9z	/m/049nq	/m/018wl5	
+3
+/m/0d060g	/m/064_8sq	/m/0pd64	
+/m/0d060g	/m/01qb5d	/m/016tt2	/m/0pd64	
+/m/0d060g	/m/01srq2	/m/0cj16	/m/0pd64	
+2
+/m/0d060g	/m/022q4l9	/m/080knyg	/m/032q8q	
+/m/0d060g	/m/022q4l9	/m/064nh4k	/m/032q8q	
+2
+/m/0d060g	/m/0gdh5	
+/m/0d060g	/m/06nm1	/m/01wj18h	/m/03y82t6	/m/01c99j	/m/0gdh5	
+1
+/m/0d060g	/m/0154fs	/m/0pqc5	/m/0100mt	
+3
+/m/0175wg	/m/06mmb	
+/m/0175wg	/m/0h5g_	/m/06mmb	
+/m/0175wg	/m/01qrbf	/m/06mmb	
+3
+/m/0175wg	/m/020bv3	/m/0d060g	/m/060bp	/m/05sb1	
+/m/0175wg	/m/020bv3	/m/0d060g	/m/05zlld0	/m/05sb1	
+/m/0175wg	/m/041rx	/m/0hskw	/m/018gz8	/m/0894_x	/m/05sb1	
+3
+/m/0175wg	/m/041rx	/m/023tp8	/m/01_d4	
+/m/0175wg	/m/041rx	/m/01nvmd_	/m/01_d4	
+/m/0175wg	/m/041rx	/m/01vlj1g	/m/0m491	/m/01_d4	
+3
+/m/0175wg	/m/041rx	/m/06449	/m/02_286	/m/0478__m	
+/m/0175wg	/m/041rx	/m/044mfr	/m/025sc50	/m/0478__m	
+/m/0175wg	/m/020bv3	/m/0d060g	/m/0gdh5	/m/01c99j	/m/0478__m	
+0
+3
+/m/02bc74	/m/03y82t6	/m/016z4k	
+/m/02bc74	/m/03y82t6	/m/01wj18h	/m/016z4k	
+/m/02bc74	/m/03y82t6	/m/01c99j	/m/02h9_l	/m/016z4k	
+1
+/m/02bc74	/m/03y82t6	/m/0ds5_72	/m/04v3q	/m/060c4	/m/0178g	
+0
+1
+/m/02bc74	/m/03y82t6	/m/0478__m	/m/02_286	/m/03m2fg	
+1
+/m/02bc74	/m/03y82t6	/m/0478__m	/m/02_286	/m/0pqc5	/m/0100mt	
+3
+/m/0pmhf	/m/034hzj	
+/m/0pmhf	/m/023gxx	/m/017fp	/m/034hzj	
+/m/0pmhf	/m/05vsxz	/m/020bv3	/m/027dtxw	/m/034hzj	
+3
+/m/0pmhf	/m/0x67	/m/01l1b90	/m/05zlld0	
+/m/0pmhf	/m/03shpq	/m/05qd_	/m/05zlld0	
+/m/0pmhf	/m/04ydr95	/m/02kdv5l	/m/05zlld0	
+3
+/m/0pmhf	/m/023gxx	/m/02vzc	/m/0lbbj	
+/m/0pmhf	/m/023gxx	/m/06mzp	/m/0lbbj	
+/m/0pmhf	/m/023gxx	/m/02vzc	/m/03_8r	/m/0lbbj	
+2
+/m/0pmhf	/m/0161sp	/m/02_286	/m/0dgrwqr	/m/0fpkxfd	
+/m/0pmhf	/m/023gxx	/m/017fp	/m/0g4pl7z	/m/0fpkxfd	
+0
+3
+/m/023tp8	/m/01_d4	/m/01nvmd_	/m/0gvsh7l	/m/0cqh6z	
+/m/023tp8	/m/041rx	/m/01vlj1g	/m/02nwxc	/m/01g03q	/m/0cqh6z	
+/m/023tp8	/m/041rx	/m/01vlj1g	/m/02nwxc	/m/05p5nc	/m/0cqh6z	
+3
+/m/023tp8	/m/01_d4	/m/0crh5_f	/m/02_286	/m/04fzk	/m/015pkc	
+/m/023tp8	/m/01_d4	/m/0crh5_f	/m/02_286	/m/0127s7	/m/015pkc	
+/m/023tp8	/m/01_d4	/m/0pqc5	/m/01jr6	/m/022q32	/m/015pkc	
+1
+/m/023tp8	/m/041rx	/m/01lct6	/m/01mh_q	
+2
+/m/023tp8	/m/01_d4	/m/01nvmd_	
+/m/023tp8	/m/041rx	/m/01nvmd_	
+1
+/m/023tp8	/m/01_d4	/m/0pqc5	/m/01jr6	/m/01l4zqz	/m/01m15br	
+3
+/m/0178g	/m/060c4	/m/02vzc	/m/0m491	/m/01_d4	
+/m/0178g	/m/060c4	/m/02vzc	/m/0crh5_f	/m/01_d4	
+/m/0178g	/m/060c4	/m/06c97	/m/0dq3c	/m/04htfd	/m/01_d4	
+3
+/m/0178g	/m/060c4	/m/02vzc	/m/023gxx	/m/0pmhf	
+/m/0178g	/m/060c4	/m/0kz2w	/m/04pp9s	/m/0x67	/m/0pmhf	
+/m/0178g	/m/060c4	/m/016tt2	/m/05qd_	/m/03shpq	/m/0pmhf	
+3
+/m/0178g	/m/060c4	/m/03676	/m/03_8r	/m/0jkvj	
+/m/0178g	/m/060c4	/m/0d0kn	/m/03hr1p	/m/0jkvj	
+/m/0178g	/m/060c4	/m/016tt2	/m/08052t3	/m/06mzp	/m/0jkvj	
+2
+/m/0178g	/m/060c4	/m/03676	/m/03_8r	/m/05b7q	
+/m/0178g	/m/060c4	/m/03676	/m/03_8r	/m/0jkvj	/m/05b7q	
+0
+3
+/m/0l6ny	/m/02vzc	/m/03_8r	
+/m/0l6ny	/m/0d060g	/m/0lbbj	/m/03_8r	
+/m/0l6ny	/m/03hr1p	/m/0jkvj	/m/03_8r	
+2
+/m/0l6ny	/m/0d060g	/m/0gdh5	/m/01c99j	/m/01vwbts	
+/m/0l6ny	/m/0d060g	/m/06nm1	/m/01wj18h	/m/03mp8k	/m/01vwbts	
+0
+0
+3
+/m/0l6ny	/m/02vzc	/m/024lt6	
+/m/0l6ny	/m/0d060g	/m/064_8sq	/m/024lt6	
+/m/0l6ny	/m/0d060g	/m/06nm1	/m/024lt6	
+3
+/m/05pd94v	/m/02cx90	/m/011zf2	
+/m/05pd94v	/m/01m15br	/m/011zf2	
+/m/05pd94v	/m/03xgm3	/m/011zf2	
+2
+/m/05pd94v	/m/01l4zqz	/m/01jr6	/m/022q32	
+/m/05pd94v	/m/01bpc9	/m/02_286	/m/04fzk	/m/015pkc	/m/022q32	
+0
+2
+/m/05pd94v	/m/01bpc9	/m/02_286	/m/01q2nx	/m/05qd_	/m/0gvs1kt	
+/m/05pd94v	/m/01bpc9	/m/02_286	/m/09ftwr	/m/0gq9h	/m/0gvs1kt	
+1
+/m/05pd94v	/m/02w7fs	/m/01mh_q	/m/01lct6	/m/018gz8	/m/04nw9	
+3
+/m/01qrbf	/m/020bv3	/m/05vsxz	
+/m/01qrbf	/m/0h5g_	/m/05vsxz	
+/m/01qrbf	/m/0175wg	/m/05vsxz	
+3
+/m/01qrbf	/m/020bv3	/m/0d060g	/m/060bp	/m/04v3q	
+/m/01qrbf	/m/020bv3	/m/064_8sq	/m/06dfg	/m/060c4	/m/04v3q	
+/m/01qrbf	/m/020bv3	/m/064_8sq	/m/06mzp	/m/02j9z	/m/04v3q	
+3
+/m/01qrbf	/m/020bv3	/m/01t_vv	/m/01g03q	/m/0cqh6z	
+/m/01qrbf	/m/0h5g_	/m/035s95	/m/01z_g6	/m/0cqh6z	
+/m/01qrbf	/m/020bv3	/m/027dtxw	/m/055td_	/m/05p5nc	/m/0cqh6z	
+2
+/m/01qrbf	/m/020bv3	/m/05vsxz	/m/0pmhf	/m/0x67	/m/01l4zqz	
+/m/01qrbf	/m/0h5g_	/m/035s95	/m/016sp_	/m/02cx90	/m/01l4zqz	
+2
+/m/01qrbf	/m/0h5g_	/m/035s95	/m/01z_g6	
+/m/01qrbf	/m/020bv3	/m/01t_vv	/m/01g03q	/m/0cqh6z	/m/01z_g6	
+1
+/m/0h7jp	/m/01b85	
+0
+0
+0
+0
+3
+/m/0h5g_	/m/01qrbf	
+/m/0h5g_	/m/020bv3	/m/01qrbf	
+/m/0h5g_	/m/06mmb	/m/01qrbf	
+1
+/m/0h5g_	/m/02tk74	/m/02_286	/m/03f0fnk	/m/052smk	/m/0326tc	
+3
+/m/0h5g_	/m/02tk74	/m/02_286	/m/03mp8k	/m/01wj18h	
+/m/0h5g_	/m/01hkhq	/m/064_8sq	/m/06nm1	/m/01wj18h	
+/m/0h5g_	/m/02tk74	/m/02_286	/m/0126y2	/m/025sc50	/m/01wj18h	
+2
+/m/0h5g_	/m/05szq8z	/m/0d2b38	/m/0pb33	/m/0417z2	
+/m/0h5g_	/m/05vsxz	/m/0pmhf	/m/01718w	/m/0417z2	
+1
+/m/0h5g_	/m/02tk74	/m/02_286	/m/0pqc5	/m/0100mt	/m/03ft8	
+2
+/m/02l4rh	/m/064_8sq	/m/0d060g	/m/04w7rn	
+/m/02l4rh	/m/0ggbfwf	/m/02vzc	/m/04w7rn	
+3
+/m/02l4rh	/m/064_8sq	/m/020bv3	/m/05vsxz	
+/m/02l4rh	/m/01hkhq	/m/0h5g_	/m/05vsxz	
+/m/02l4rh	/m/064_8sq	/m/06nm1	/m/0963mq	/m/05vsxz	
+0
+3
+/m/02l4rh	/m/064_8sq	/m/0fsw_7	/m/02kdv5l	/m/01q2nx	
+/m/02l4rh	/m/064_8sq	/m/024lt6	/m/02_286	/m/01q2nx	
+/m/02l4rh	/m/064_8sq	/m/0ckrnn	/m/05qd_	/m/01q2nx	
+0
+3
+/m/07yk1xz	/m/0cj16	/m/0p9tm	/m/02kdv5l	/m/05szq8z	/m/0d2b38	
+/m/07yk1xz	/m/0cj16	/m/0p9tm	/m/02kdv5l	/m/05t0_2v	/m/0d2b38	
+/m/07yk1xz	/m/0cj16	/m/0p9tm	/m/02kdv5l	/m/076xkps	/m/0d2b38	
+2
+/m/07yk1xz	/m/0cj16	/m/0p9tm	/m/06nm1	/m/01sbv9	/m/01zhp	
+/m/07yk1xz	/m/0cj16	/m/08052t3	/m/0d060g	/m/087wc7n	/m/01zhp	
+1
+/m/07yk1xz	/m/0cj16	/m/01chpn	/m/027dtxw	/m/021yzs	
+3
+/m/07yk1xz	/m/0cj16	/m/01chpn	/m/027dtxw	/m/020bv3	
+/m/07yk1xz	/m/0cj16	/m/0pd64	/m/064_8sq	/m/020bv3	
+/m/07yk1xz	/m/0cj16	/m/08052t3	/m/0d060g	/m/020bv3	
+2
+/m/07yk1xz	/m/0cj16	/m/02z0f6l	
+/m/07yk1xz	/m/017fp	/m/02z0f6l	
+0
+0
+0
+0
+0
+3
+/m/02bqmq	/m/02bqn1	
+/m/02bqmq	/m/02bn_p	/m/02bqn1	
+/m/02bqmq	/m/02glc4	/m/02bqn1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+/m/02chhq	/m/017fp	
+/m/02chhq	/m/06j8wx	/m/01hkhq	/m/047myg9	/m/017fp	
+/m/02chhq	/m/06j8wx	/m/08y2fn	/m/07kjk7c	/m/05z43v	/m/017fp	
+1
+/m/02chhq	/m/017fp	/m/023gxx	/m/02vzc	/m/0fphf3v	/m/01p4vl	
+1
+/m/02chhq	/m/017fp	/m/01719t	/m/016tt2	/m/060c4	/m/0kz2w	
+3
+/m/02chhq	/m/06j8wx	/m/01hkhq	
+/m/02chhq	/m/017fp	/m/047myg9	/m/01hkhq	
+/m/02chhq	/m/06j8wx	/m/02l4rh	/m/01hkhq	
+0
+3
+/m/01vwbts	/m/01cszh	/m/02h9_l	/m/016z4k	
+/m/01vwbts	/m/03mp8k	/m/01wj18h	/m/016z4k	
+/m/01vwbts	/m/01c99j	/m/03y82t6	/m/016z4k	
+2
+/m/01vwbts	/m/09f2j	/m/0f4vx0	/m/06fq2	/m/05pcjw	/m/02vkzcx	
+/m/01vwbts	/m/09f2j	/m/05jxkf	/m/03x33n	/m/04ly1	/m/02vkzcx	
+2
+/m/01vwbts	/m/01cszh	/m/02h9_l	/m/016z4k	/m/0411q	
+/m/01vwbts	/m/01c99j	/m/0478__m	/m/05pd94v	/m/0248jb	/m/0411q	
+0
+3
+/m/01vwbts	/m/03mp8k	/m/02_286	/m/06cgy	/m/0jqj5	
+/m/01vwbts	/m/09f2j	/m/02vxn	/m/06ltr	/m/027dtxw	/m/0jqj5	
+/m/01vwbts	/m/03mp8k	/m/02_286	/m/04fzfj	/m/064_8sq	/m/0jqj5	
+3
+/m/05zlld0	/m/06nm1	/m/064_8sq	/m/06mzp	
+/m/05zlld0	/m/06nm1	/m/0bz3jx	/m/06mzp	
+/m/05zlld0	/m/05qd_	/m/04969y	/m/06mzp	
+0
+3
+/m/05zlld0	/m/0d060g	/m/0l6ny	
+/m/05zlld0	/m/06nm1	/m/024lt6	/m/02vzc	/m/0l6ny	
+/m/05zlld0	/m/0d060g	/m/0lbbj	/m/03hr1p	/m/0l6ny	
+1
+/m/05zlld0	/m/01l1b90	/m/0x67	/m/0770cd	/m/01s0ps	/m/0326tc	
+3
+/m/05zlld0	/m/06nm1	/m/064_8sq	/m/0jqj5	
+/m/05zlld0	/m/05qd_	/m/0gq9h	/m/0jqj5	
+/m/05zlld0	/m/046qq	/m/0bzlrh	/m/0jqj5	
+1
+/m/041rx	/m/06449	/m/02_286	/m/05xpv	
+1
+/m/041rx	/m/06449	/m/02_286	/m/0161sp	/m/016z4k	/m/0411q	
+0
+3
+/m/041rx	/m/0kszw	/m/02y_rq5	/m/01hkhq	
+/m/041rx	/m/0175wg	/m/0h5g_	/m/01hkhq	
+/m/041rx	/m/08hp53	/m/04fzfj	/m/064_8sq	/m/01hkhq	
+3
+/m/041rx	/m/01t6b4	/m/020h2v	/m/02vxn	/m/03sb38	
+/m/041rx	/m/0hskw	/m/018gz8	/m/01pcbg	/m/0pdp8	/m/03sb38	
+/m/041rx	/m/08hp53	/m/04fzfj	/m/064_8sq	/m/0g4pl7z	/m/03sb38	
+0
+0
+0
+0
+1
+/m/031f_m	/m/06jntd	/m/01hw5kk	/m/016tt2	/m/060c4	/m/0175rc	
+1
+/m/02fwfb	/m/0gfmc_	
+3
+/m/02fwfb	/m/0gfmc_	/m/02_kd	/m/02l4rh	
+/m/02fwfb	/m/0184jc	/m/017z49	/m/0d060g	/m/064_8sq	/m/02l4rh	
+/m/02fwfb	/m/0184jc	/m/017z49	/m/0d060g	/m/0ggbfwf	/m/02l4rh	
+0
+1
+/m/02fwfb	/m/0184jc	/m/017z49	/m/06mzp	/m/0j6b5	
+1
+/m/02fwfb	/m/0184jc	/m/017z49	/m/0d060g	/m/0gdh5	
+3
+/m/041rx	/m/0c921	/m/0gt1k	/m/0l9k1	
+/m/041rx	/m/08hp53	/m/016tt2	/m/0l9k1	
+/m/041rx	/m/0c921	/m/0gq9h	/m/05qd_	/m/0l9k1	
+1
+/m/041rx	/m/06449	/m/02_286	/m/04dsnp	/m/06nm1	/m/01304j	
+1
+/m/041rx	/m/08hp53	/m/04fzfj	/m/064_8sq	/m/06dfg	/m/018wl5	
+2
+/m/041rx	/m/06449	/m/02_286	/m/0992d9	
+/m/041rx	/m/06449	/m/02_286	/m/06cgy	/m/0992d9	
+3
+/m/041rx	/m/0175wg	/m/020bv3	/m/027dtxw	
+/m/041rx	/m/0c921	/m/0gq9h	/m/0jqj5	/m/027dtxw	
+/m/041rx	/m/0hskw	/m/018gz8	/m/06ltr	/m/027dtxw	
+3
+/m/02x4wr9	/m/04b2qn	/m/0zcbl	/m/047myg9	
+/m/02x4wr9	/m/024lt6	/m/064_8sq	/m/01hkhq	/m/047myg9	
+/m/02x4wr9	/m/04b2qn	/m/0cj16	/m/07yk1xz	/m/017fp	/m/047myg9	
+0
+1
+/m/02x4wr9	/m/024lt6	/m/02vzc	/m/04w7rn	/m/094hwz	
+3
+/m/02x4wr9	/m/024lt6	/m/064_8sq	/m/020bv3	
+/m/02x4wr9	/m/0209xj	/m/01t_vv	/m/020bv3	
+/m/02x4wr9	/m/0gmcwlb	/m/0d060g	/m/020bv3	
+1
+/m/02x4wr9	/m/04b2qn	/m/0cj16	/m/047n8xt	/m/02r6c_	
+3
+/m/09f0bj	/m/05np4c	
+/m/09f0bj	/m/0k2mxq	/m/05np4c	
+/m/09f0bj	/m/06s6hs	/m/05np4c	
+1
+/m/09f0bj	/m/0x67	/m/02d45s	/m/0164v	/m/060c4	/m/09kvv	
+3
+/m/09f0bj	/m/0x67	/m/04pp9s	/m/0kz2w	
+/m/09f0bj	/m/0x67	/m/02d45s	/m/0164v	/m/060c4	/m/0kz2w	
+/m/09f0bj	/m/0cqh6z	/m/01z_g6	/m/01rtm4	/m/083jv	/m/0kz2w	
+2
+/m/09f0bj	/m/0x67	/m/0pmhf	/m/05vsxz	/m/0h5g_	/m/06mmb	
+/m/09f0bj	/m/0x67	/m/0pmhf	/m/05vsxz	/m/0175wg	/m/06mmb	
+3
+/m/09f0bj	/m/0x67	/m/01l4zqz	/m/05pd94v	/m/016srn	
+/m/09f0bj	/m/0x67	/m/01l4zqz	/m/02cx90	/m/016srn	
+/m/09f0bj	/m/0x67	/m/01l4zqz	/m/02cx90	/m/016sp_	/m/016srn	
+3
+/m/0248jb	/m/05pd94v	/m/02w7fs	/m/01mh_q	
+/m/0248jb	/m/05pd94v	/m/02hgm4	/m/01mh_q	
+/m/0248jb	/m/05pd94v	/m/01bpc9	/m/02_286	/m/01lct6	/m/01mh_q	
+1
+/m/0248jb	/m/05pd94v	/m/01l4zqz	/m/0x67	/m/0pmhf	/m/034hzj	
+2
+/m/0248jb	/m/05pd94v	/m/01bpc9	/m/02_286	/m/0992d9	
+/m/0248jb	/m/05pd94v	/m/01bpc9	/m/02_286	/m/06cgy	/m/0992d9	
+0
+0
+3
+/m/020h2v	/m/0pc62	
+/m/020h2v	/m/01t6b4	/m/0pc62	
+/m/020h2v	/m/024lt6	/m/064_8sq	/m/0pc62	
+3
+/m/020h2v	/m/0pc62	/m/02kdv5l	/m/05szq8z	/m/0d2b38	
+/m/020h2v	/m/0pc62	/m/02kdv5l	/m/05t0_2v	/m/0d2b38	
+/m/020h2v	/m/0pc62	/m/02kdv5l	/m/076xkps	/m/0d2b38	
+3
+/m/020h2v	/m/0pc62	/m/064_8sq	
+/m/020h2v	/m/024lt6	/m/064_8sq	
+/m/020h2v	/m/024lt6	/m/06nm1	/m/064_8sq	
+2
+/m/020h2v	/m/0pc62	/m/02kdv5l	/m/03k8th	
+/m/020h2v	/m/02vxn	/m/06ltr	/m/027dtxw	/m/02s2ft	/m/03k8th	
+1
+/m/020h2v	/m/011yth	/m/01jr6	/m/0pqc5	/m/0100mt	
+1
+/m/03qjlz	/m/02_286	
+3
+/m/03qjlz	/m/02_286	/m/011yth	/m/020h2v	
+/m/03qjlz	/m/02_286	/m/01t6b4	/m/020h2v	
+/m/03qjlz	/m/02_286	/m/024lt6	/m/020h2v	
+3
+/m/03qjlz	/m/02_286	/m/0161sp	/m/016z4k	/m/0pkyh	
+/m/03qjlz	/m/02_286	/m/03mp8k	/m/01vwbts	/m/02f73p	/m/0pkyh	
+/m/03qjlz	/m/02_286	/m/0161sp	/m/016z4k	/m/02cx90	/m/0pkyh	
+3
+/m/03qjlz	/m/02_286	/m/01hlwv	/m/0d060g	/m/020bv3	
+/m/03qjlz	/m/02_286	/m/04fzfj	/m/064_8sq	/m/020bv3	
+/m/03qjlz	/m/02_286	/m/016z43	/m/01t_vv	/m/020bv3	
+1
+/m/03qjlz	/m/02_286	/m/0161sp	/m/0x67	/m/03f3_p3	/m/017_pb	
+3
+/m/0209xj	/m/02x4wr9	/m/024lt6	/m/064_8sq	
+/m/0209xj	/m/02rdxsh	/m/0jqj5	/m/064_8sq	
+/m/0209xj	/m/0gq9h	/m/01jc6q	/m/064_8sq	
+0
+2
+/m/0209xj	/m/02x4wr9	/m/024lt6	/m/02vzc	/m/0372j5	
+/m/0209xj	/m/0gq9h	/m/0fk0xk	/m/0k5fg	/m/09q17	/m/0372j5	
+3
+/m/0209xj	/m/02x4wr9	/m/04b2qn	/m/0cj16	/m/01f85k	
+/m/0209xj	/m/02x4wr9	/m/024lt6	/m/064_8sq	/m/01f85k	
+/m/0209xj	/m/02x4wr9	/m/024lt6	/m/02vzc	/m/01f85k	
+0
+3
+/m/0992d9	/m/02_286	/m/0dgrwqr	/m/02kdv5l	
+/m/0992d9	/m/02_286	/m/01sby_	/m/02kdv5l	
+/m/0992d9	/m/02_286	/m/04fzfj	/m/02kdv5l	
+3
+/m/0992d9	/m/02_286	/m/016z43	/m/01t_vv	
+/m/0992d9	/m/02_286	/m/01_f_5	/m/0209xj	/m/01t_vv	
+/m/0992d9	/m/02_286	/m/01hlwv	/m/0d060g	/m/020bv3	/m/01t_vv	
+0
+3
+/m/0992d9	/m/02_286	/m/014x77	/m/041rx	/m/0175wg	
+/m/0992d9	/m/02_286	/m/02tk74	/m/0h5g_	/m/0175wg	
+/m/0992d9	/m/02_286	/m/01hlwv	/m/0d060g	/m/020bv3	/m/0175wg	
+1
+/m/0992d9	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/060c4	/m/0175rc	
+3
+/m/0738b8	/m/02_286	/m/01lct6	/m/018gz8	
+/m/0738b8	/m/02_286	/m/02_n5d	/m/018gz8	
+/m/0738b8	/m/02_286	/m/01wj9y9	/m/018gz8	
+1
+/m/0738b8	/m/02_286	/m/04dsnp	/m/06nm1	/m/01304j	
+2
+/m/0738b8	/m/02_286	/m/03cvvlg	/m/04qvl7	/m/0gjk1d	/m/0gfmc_	
+/m/0738b8	/m/02_286	/m/0170vn	/m/01wy5m	/m/03lvwp	/m/0gfmc_	
+1
+/m/0738b8	/m/02_286	/m/01vlj1g	/m/02_06s	
+3
+/m/0738b8	/m/02_286	/m/0161sp	/m/016z4k	/m/02cx90	
+/m/0738b8	/m/02_286	/m/0478__m	/m/05pd94v	/m/02cx90	
+/m/0738b8	/m/02_286	/m/01q2nx	/m/015c4g	/m/016sp_	/m/02cx90	
+3
+/m/0d060g	/m/0l6ny	/m/03hr1p	/m/0jkvj	
+/m/0d060g	/m/064_8sq	/m/06mzp	/m/0jkvj	
+/m/0d060g	/m/0lbbj	/m/03_8r	/m/0jkvj	
+1
+/m/0d060g	/m/064_8sq	/m/0pd64	/m/0rh6k	/m/03lpp_	/m/02sddg	
+3
+/m/0d060g	/m/0274ck	/m/016z4k	/m/02cx90	
+/m/0d060g	/m/0274ck	/m/016z4k	/m/0pkyh	/m/02cx90	
+/m/0d060g	/m/0274ck	/m/016z4k	/m/01m15br	/m/02cx90	
+3
+/m/0d060g	/m/0gmcwlb	/m/0gq9h	/m/0gvs1kt	
+/m/0d060g	/m/0m491	/m/05qd_	/m/0gvs1kt	
+/m/0d060g	/m/064_8sq	/m/0pd64	/m/0rh6k	/m/059_gf	/m/0gvs1kt	
+3
+/m/0d060g	/m/01qb5d	/m/016tt2	/m/0gq_d	
+/m/0d060g	/m/0m491	/m/05qd_	/m/0gq_d	
+/m/0d060g	/m/06nm1	/m/02rn00y	/m/05qb8vx	/m/0gq_d	
+3
+/m/02vzc	/m/03_8r	/m/0jkvj	
+/m/02vzc	/m/03hr1p	/m/0jkvj	
+/m/02vzc	/m/0lbbj	/m/06mzp	/m/0jkvj	
+3
+/m/02vzc	/m/01sby_	/m/02_286	/m/04fzk	/m/015pkc	
+/m/02vzc	/m/01sby_	/m/02_286	/m/0127s7	/m/015pkc	
+/m/02vzc	/m/02j9z	/m/04v3q	/m/0ds5_72	/m/02s2ft	/m/015pkc	
+3
+/m/02vzc	/m/0lbbj	/m/06mzp	
+/m/02vzc	/m/01dys	/m/06mzp	
+/m/02vzc	/m/03hr1p	/m/06mzp	
+1
+/m/02vzc	/m/060c4	/m/016tt2	/m/01hw5kk	/m/06jntd	/m/031f_m	
+2
+/m/02vzc	/m/0fphf3v	/m/06cgy	/m/0bzk2h	/m/033rq	
+/m/02vzc	/m/01sby_	/m/02_286	/m/019pkm	/m/03nqnk3	/m/033rq	
+3
+/m/01_j71	/m/02_n5d	
+/m/01_j71	/m/041rx	/m/06449	/m/02_286	/m/02_n5d	
+/m/01_j71	/m/041rx	/m/0hskw	/m/018gz8	/m/02_n5d	
+1
+/m/01_j71	/m/041rx	/m/0175wg	/m/020bv3	/m/027dtxw	/m/021yzs	
+2
+/m/01_j71	/m/041rx	/m/0175wg	/m/0h5g_	/m/035s95	/m/016sp_	
+/m/01_j71	/m/02_n5d	/m/02_286	/m/01q2nx	/m/015c4g	/m/016sp_	
+0
+0
+3
+/m/01s0ps	/m/0dwt5	
+/m/01s0ps	/m/07_l6	/m/0dwt5	
+/m/01s0ps	/m/07gql	/m/0dwt5	
+2
+/m/01s0ps	/m/0770cd	/m/0x67	/m/0pmhf	/m/023gxx	/m/017fp	
+/m/01s0ps	/m/0770cd	/m/0x67	/m/0pmhf	/m/034hzj	/m/017fp	
+3
+/m/01s0ps	/m/07gql	/m/03xgm3	
+/m/01s0ps	/m/07_l6	/m/02cx90	/m/03xgm3	
+/m/01s0ps	/m/01nn3m	/m/016z4k	/m/01m15br	/m/03xgm3	
+0
+0
+1
+/m/0269kx	/m/05jxkf	/m/02mg5r	/m/083jv	/m/065r8g	/m/036k5h	
+0
+0
+1
+/m/0269kx	/m/05jxkf	/m/02mg5r	/m/083jv	/m/03lpp_	/m/02sddg	
+0
+1
+/m/02yxjs	/m/01f7j9	/m/01_d4	/m/0cmt6q	/m/018gz8	/m/0glmv	
+1
+/m/02yxjs	/m/01f7j9	/m/0bdjd	/m/0rh6k	/m/092bf5	/m/01rc4p	
+3
+/m/02yxjs	/m/01f7j9	/m/0bdjd	/m/02vzc	/m/0l6ny	
+/m/02yxjs	/m/01f7j9	/m/01_d4	/m/0m491	/m/0d060g	/m/0l6ny	
+/m/02yxjs	/m/01f7j9	/m/0bdjd	/m/02vzc	/m/03hr1p	/m/0l6ny	
+0
+3
+/m/02yxjs	/m/01f7j9	/m/0bdjd	/m/02vzc	/m/024lt6	
+/m/02yxjs	/m/01f7j9	/m/01_d4	/m/0crh5_f	/m/02_286	/m/024lt6	
+/m/02yxjs	/m/05jxkf	/m/09f2j	/m/02vxn	/m/020h2v	/m/024lt6	
+1
+/m/02sddg	/m/049n7	
+0
+1
+/m/02sddg	/m/03lpp_	/m/0rh6k	/m/0bdjd	/m/05qd_	/m/01q2nx	
+1
+/m/02sddg	/m/03lpp_	/m/0rh6k	/m/0pd64	/m/0gq9h	/m/0c12h	
+0
+3
+/m/04fzfj	/m/08hp53	
+/m/04fzfj	/m/02_286	/m/08hp53	
+/m/04fzfj	/m/01vlj1g	/m/041rx	/m/08hp53	
+2
+/m/04fzfj	/m/08hp53	/m/016tt2	/m/060c4	/m/09kvv	/m/01rc4p	
+/m/04fzfj	/m/064_8sq	/m/0pd64	/m/0rh6k	/m/092bf5	/m/01rc4p	
+2
+/m/04fzfj	/m/02_286	/m/02x8fs	/m/0d608	
+/m/04fzfj	/m/064_8sq	/m/0pc62	/m/0d608	
+3
+/m/04fzfj	/m/02_286	/m/03mp8k	/m/01vwbts	
+/m/04fzfj	/m/02_286	/m/0478__m	/m/01c99j	/m/01vwbts	
+/m/04fzfj	/m/02_286	/m/03mp8k	/m/046p9	/m/02f73p	/m/01vwbts	
+3
+/m/04fzfj	/m/02kdv5l	/m/017gl1	
+/m/04fzfj	/m/064_8sq	/m/0d060g	/m/017gl1	
+/m/04fzfj	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/017gl1	
+2
+/m/05qd_	/m/0bmpm	
+/m/05qd_	/m/0gq9h	/m/0bmpm	
+0
+1
+/m/05qd_	/m/01q2nx	/m/02_286	/m/03f0fnk	/m/052smk	/m/0326tc	
+3
+/m/05qd_	/m/0gq9h	/m/0209xj	
+/m/05qd_	/m/0191n	/m/02rdxsh	/m/0209xj	
+/m/05qd_	/m/0gq9h	/m/01_f_5	/m/0209xj	
+1
+/m/05qd_	/m/0m491	/m/01vlj1g	/m/02_06s	
+1
+/m/06mzp	/m/0lfyd	
+3
+/m/06mzp	/m/064_8sq	/m/024lt6	/m/02_286	/m/0126y2	
+/m/06mzp	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/025sc50	/m/0126y2	
+/m/06mzp	/m/064_8sq	/m/0fsw_7	/m/02kdv5l	/m/0ct2tf5	/m/0126y2	
+1
+/m/06mzp	/m/023gxx	/m/0pmhf	/m/0x67	/m/01l4zqz	/m/011zf2	
+3
+/m/06mzp	/m/064_8sq	/m/024lt6	/m/02_286	/m/0478__m	
+/m/06mzp	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/025sc50	/m/0478__m	
+/m/06mzp	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/03y82t6	/m/0478__m	
+3
+/m/06mzp	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/016z4k	/m/02cx90	
+/m/06mzp	/m/0gmcwlb	/m/02x4wr9	/m/015c4g	/m/016sp_	/m/02cx90	
+/m/06mzp	/m/023gxx	/m/0pmhf	/m/0x67	/m/01l4zqz	/m/02cx90	
+3
+/m/0gq9h	/m/0jqj5	
+/m/0gq9h	/m/0bzk2h	/m/06cgy	/m/0jqj5	
+/m/0gq9h	/m/01jc6q	/m/064_8sq	/m/0jqj5	
+2
+/m/0gq9h	/m/04v8x9	/m/02kdv5l	/m/02x8fs	/m/0d608	
+/m/0gq9h	/m/04v8x9	/m/02kdv5l	/m/0pc62	/m/0d608	
+1
+/m/0gq9h	/m/016tt2	/m/01pv91	/m/0fzyg	/m/09yxcz	/m/01chg	
+3
+/m/0gq9h	/m/05sy_5	/m/0337vz	/m/0x67	/m/01l4zqz	/m/03xgm3	
+/m/0gq9h	/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/01m15br	/m/03xgm3	
+/m/0gq9h	/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/02cx90	/m/03xgm3	
+2
+/m/0gq9h	/m/04b2qn	/m/0cj16	/m/02z0f6l	
+/m/0gq9h	/m/0k5px	/m/017fp	/m/02z0f6l	
+0
+2
+/m/0jnlm	/m/01_d4	/m/023tp8	/m/041rx	/m/01_j71	
+/m/0jnlm	/m/01_d4	/m/0crh5_f	/m/02_286	/m/02_n5d	/m/01_j71	
+0
+1
+/m/0jnlm	/m/01_d4	/m/0crh5_f	/m/02_286	/m/05xpv	/m/022dp5	
+0
+1
+/m/02y_rq5	/m/04fzk	/m/02_286	/m/01vlj1g	/m/02_06s	
+3
+/m/02y_rq5	/m/01hkhq	/m/0h5g_	
+/m/02y_rq5	/m/03c_cxn	/m/01t_vv	/m/020bv3	/m/0h5g_	
+/m/02y_rq5	/m/04fzk	/m/02_286	/m/02tk74	/m/0h5g_	
+1
+/m/02y_rq5	/m/02d478	/m/01qscs	/m/027dtxw	/m/021yzs	
+1
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/0bdjd	/m/0rh6k	/m/092bf5	
+0
+0
+0
+0
+0
+0
+3
+/m/0234j5	/m/01yd8v	/m/016sp_	/m/035s95	/m/02kdv5l	
+/m/0234j5	/m/06cgy	/m/02_286	/m/0dgrwqr	/m/02kdv5l	
+/m/0234j5	/m/06cgy	/m/02_286	/m/01sby_	/m/02kdv5l	
+0
+1
+/m/0234j5	/m/01yd8v	/m/016sp_	/m/035s95	/m/0h5g_	/m/06mmb	
+2
+/m/0234j5	/m/01yd8v	/m/016sp_	/m/02cx90	/m/016z4k	/m/02h9_l	
+/m/0234j5	/m/06cgy	/m/02_286	/m/0478__m	/m/01c99j	/m/02h9_l	
+0
+0
+0
+0
+0
+0
+2
+/m/02mhfy	/m/018gz8	/m/063g7l	/m/0kv2hv	/m/09q17	/m/0372j5	
+/m/02mhfy	/m/03nqnnk	/m/023tp8	/m/01d259	/m/02vzc	/m/0372j5	
+0
+1
+/m/02mhfy	/m/018gz8	/m/01wj9y9	/m/02_286	/m/06cgy	/m/0234j5	
+0
+2
+/m/02mhfy	/m/03nqnnk	/m/0dn3n	
+/m/02mhfy	/m/018gz8	/m/01ccr8	/m/01pvxl	/m/0dn3n	
+3
+/m/0478__m	/m/025sc50	/m/01wj18h	
+/m/0478__m	/m/03y82t6	/m/01wj18h	
+/m/0478__m	/m/05pd94v	/m/02w7fs	/m/01wj18h	
+3
+/m/0478__m	/m/02_286	/m/01hlwv	/m/0d060g	/m/05zlld0	
+/m/0478__m	/m/02_286	/m/0dgrwqr	/m/02kdv5l	/m/05zlld0	
+/m/0478__m	/m/02_286	/m/01q2nx	/m/05qd_	/m/05zlld0	
+0
+3
+/m/0478__m	/m/02_286	/m/0jw67	
+/m/0478__m	/m/02_286	/m/04dsnp	/m/0jw67	
+/m/0478__m	/m/02_286	/m/01hlwv	/m/0d060g	/m/012jfb	/m/0jw67	
+3
+/m/0478__m	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/03hr1p	
+/m/0478__m	/m/02_286	/m/01hlwv	/m/0d060g	/m/0l6ny	/m/03hr1p	
+/m/0478__m	/m/02_286	/m/01hlwv	/m/0d060g	/m/0lbbj	/m/03hr1p	
+2
+/m/0js9s	/m/017gl1	/m/02kdv5l	/m/08k40m	
+/m/0js9s	/m/02q_cc	/m/05qd_	/m/08k40m	
+3
+/m/0js9s	/m/017gl1	/m/02vzc	/m/08052t3	
+/m/0js9s	/m/017gl1	/m/0d060g	/m/08052t3	
+/m/0js9s	/m/0gq9h	/m/016tt2	/m/08052t3	
+0
+2
+/m/0js9s	/m/0gq9h	/m/04b2qn	/m/0cj16	/m/02z0f6l	
+/m/0js9s	/m/0gq9h	/m/0k5px	/m/017fp	/m/02z0f6l	
+0
+0
+3
+/m/060c4	/m/04v3q	/m/0ds5_72	/m/03y82t6	/m/016z4k	
+/m/060c4	/m/03h2c	/m/06nm1	/m/01wj18h	/m/016z4k	
+/m/060c4	/m/06c97	/m/04dsnp	/m/02_286	/m/0161sp	/m/016z4k	
+3
+/m/060c4	/m/03548	/m/064_8sq	/m/02l4rh	
+/m/060c4	/m/02vzc	/m/0ggbfwf	/m/02l4rh	
+/m/060c4	/m/03548	/m/064_8sq	/m/01hkhq	/m/02l4rh	
+1
+/m/060c4	/m/016tt2	/m/055td_	/m/027dtxw	/m/021yzs	
+2
+/m/060c4	/m/0kz2w	/m/04pp9s	/m/0x67	/m/01wgxtl	/m/01wlt3k	
+/m/060c4	/m/0kz2w	/m/04pp9s	/m/0x67	/m/01ws9n6	/m/01wlt3k	
+2
+/m/041rx	/m/06449	/m/02_286	/m/03f0fnk	
+/m/041rx	/m/06449	/m/02_286	/m/0161sp	/m/016z4k	/m/03f0fnk	
+3
+/m/041rx	/m/0175wg	/m/05vsxz	/m/0pmhf	
+/m/041rx	/m/01t6b4	/m/023gxx	/m/0pmhf	
+/m/041rx	/m/06449	/m/02_286	/m/0161sp	/m/0pmhf	
+3
+/m/041rx	/m/023tp8	/m/01_d4	
+/m/041rx	/m/01nvmd_	/m/01_d4	
+/m/041rx	/m/01vlj1g	/m/0m491	/m/01_d4	
+3
+/m/041rx	/m/01t6b4	/m/023gxx	/m/017fp	
+/m/041rx	/m/0m9c1	/m/0k5px	/m/017fp	
+/m/041rx	/m/08hp53	/m/016tt2	/m/01719t	/m/017fp	
+1
+/m/041rx	/m/08hp53	/m/04fzfj	/m/02kdv5l	/m/0b7l4x	
+2
+/m/022dp5	/m/05xpv	/m/02_286	/m/014x77	/m/041rx	/m/01nvmd_	
+/m/022dp5	/m/05xpv	/m/02_286	/m/0crh5_f	/m/01_d4	/m/01nvmd_	
+2
+/m/022dp5	/m/05xpv	/m/02_286	/m/02_n5d	/m/01_j71	
+/m/022dp5	/m/05xpv	/m/02_286	/m/014x77	/m/041rx	/m/01_j71	
+0
+2
+/m/022dp5	/m/05xpv	/m/02_286	/m/01hlwv	/m/0d060g	/m/01qb5d	
+/m/022dp5	/m/05xpv	/m/02_286	/m/08hp53	/m/016tt2	/m/01qb5d	
+2
+/m/022dp5	/m/05xpv	/m/02_286	/m/01hlwv	/m/0d060g	/m/06k75	
+/m/022dp5	/m/05xpv	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/06k75	
+1
+/m/021yzs	/m/027dtxw	/m/055td_	/m/05p5nc	/m/02nwxc	/m/02pg45	
+0
+1
+/m/021yzs	/m/027dtxw	/m/020bv3	/m/0175wg	/m/041rx	/m/01nvmd_	
+2
+/m/021yzs	/m/027dtxw	/m/0jqj5	/m/0gq9h	/m/0gvs1kt	
+/m/021yzs	/m/027dtxw	/m/015c4g	/m/01q2nx	/m/05qd_	/m/0gvs1kt	
+1
+/m/021yzs	/m/027dtxw	/m/0jqj5	/m/0gq9h	/m/02q52q	/m/04mby	
+1
+/m/01xndd	/m/02_286	
+2
+/m/01xndd	/m/02_286	/m/0161sp	/m/0x67	/m/09f0bj	
+/m/01xndd	/m/02_286	/m/0161sp	/m/0pmhf	/m/02d413	/m/09f0bj	
+3
+/m/01xndd	/m/02_286	/m/03mp8k	/m/046p9	/m/02x8m	
+/m/01xndd	/m/02_286	/m/0126y2	/m/025sc50	/m/01wzlxj	/m/02x8m	
+/m/01xndd	/m/02_286	/m/0126y2	/m/025sc50	/m/01wk7ql	/m/02x8m	
+1
+/m/01xndd	/m/02_286	/m/0dgrwqr	/m/02kdv5l	/m/0b7l4x	
+3
+/m/01xndd	/m/02_286	/m/01hlwv	/m/0d060g	/m/020bv3	
+/m/01xndd	/m/02_286	/m/04fzfj	/m/064_8sq	/m/020bv3	
+/m/01xndd	/m/02_286	/m/016z43	/m/01t_vv	/m/020bv3	
+3
+/m/016tt2	/m/05qd_	/m/07s3m4g	
+/m/016tt2	/m/08052t3	/m/0d060g	/m/07s3m4g	
+/m/016tt2	/m/08052t3	/m/06mzp	/m/07s3m4g	
+3
+/m/016tt2	/m/01pvxl	/m/04fzk	/m/015pkc	
+/m/016tt2	/m/055td_	/m/027dtxw	/m/02s2ft	/m/015pkc	
+/m/016tt2	/m/08hp53	/m/02_286	/m/0127s7	/m/015pkc	
+3
+/m/016tt2	/m/060c4	/m/016tt2	
+/m/016tt2	/m/076zy_g	/m/016tt2	
+/m/016tt2	/m/03pc89	/m/016tt2	
+3
+/m/016tt2	/m/076zy_g	/m/02kdv5l	/m/05szq8z	/m/0h5g_	
+/m/016tt2	/m/076zy_g	/m/02kdv5l	/m/035s95	/m/0h5g_	
+/m/016tt2	/m/0pd64	/m/064_8sq	/m/01hkhq	/m/0h5g_	
+0
+1
+/m/02_3zj	/m/0lp_cd3	/m/080dwhx	
+2
+/m/02_3zj	/m/0lp_cd3	/m/0gvsh7l	/m/01nvmd_	/m/041rx	
+/m/02_3zj	/m/0cs134	/m/01t_vv	/m/020bv3	/m/0175wg	/m/041rx	
+0
+1
+/m/02_3zj	/m/0lp_cd3	/m/0gvsh7l	/m/01nvmd_	/m/01_d4	/m/0b2v79	
+0
+3
+/m/0b7l4x	/m/02kdv5l	/m/05szq8z	/m/0d2b38	
+/m/0b7l4x	/m/02kdv5l	/m/05t0_2v	/m/0d2b38	
+/m/0b7l4x	/m/02kdv5l	/m/076xkps	/m/0d2b38	
+3
+/m/0b7l4x	/m/02kdv5l	/m/0dgrwqr	/m/02vzc	/m/08052t3	
+/m/0b7l4x	/m/02kdv5l	/m/01hw5kk	/m/016tt2	/m/08052t3	
+/m/0b7l4x	/m/02kdv5l	/m/017gl1	/m/0d060g	/m/08052t3	
+0
+1
+/m/0b7l4x	/m/02kdv5l	/m/035s95	/m/01z_g6	/m/0cqh6z	
+3
+/m/0b7l4x	/m/02kdv5l	/m/0dgrwqr	/m/02_286	/m/0478__m	/m/01c99j	
+/m/0b7l4x	/m/02kdv5l	/m/0dgrwqr	/m/02_286	/m/0127s7	/m/01c99j	
+/m/0b7l4x	/m/02kdv5l	/m/017gl1	/m/0d060g	/m/0gdh5	/m/01c99j	
+1
+/m/0pkyh	/m/016z4k	/m/0274ck	/m/0d060g	/m/017gl1	/m/041h0	
+3
+/m/0pkyh	/m/016z4k	/m/0163kf	/m/0x67	
+/m/0pkyh	/m/016z4k	/m/01wzlxj	/m/0x67	
+/m/0pkyh	/m/016z4k	/m/01ws9n6	/m/0x67	
+0
+0
+1
+/m/0pkyh	/m/016z4k	/m/01vsy9_	/m/0bmpm	/m/05qd_	/m/012gk9	
+3
+/m/01qb5d	/m/0d060g	/m/01hlwv	/m/02_286	
+/m/01qb5d	/m/0d060g	/m/01sby_	/m/02_286	
+/m/01qb5d	/m/016tt2	/m/08hp53	/m/02_286	
+0
+0
+3
+/m/01qb5d	/m/0d060g	/m/0l6ny	/m/02vzc	/m/0crh5_f	
+/m/01qb5d	/m/0d060g	/m/01hlwv	/m/02_286	/m/0crh5_f	
+/m/01qb5d	/m/0d060g	/m/01srq2	/m/0cj16	/m/0crh5_f	
+0
+3
+/m/02bqmq	/m/060ny2	
+/m/02bqmq	/m/02bn_p	/m/060ny2	
+/m/02bqmq	/m/02bqn1	/m/060ny2	
+0
+0
+0
+0
+1
+/m/016sp_	/m/01smm	
+1
+/m/016sp_	/m/02cx90	/m/016z4k	/m/03y82t6	/m/02bc74	
+3
+/m/016sp_	/m/02cx90	/m/07_l6	/m/0dwt5	
+/m/016sp_	/m/02cx90	/m/0d8lm	/m/02fsn	/m/0dwt5	
+/m/016sp_	/m/02cx90	/m/07_l6	/m/01s0ps	/m/0dwt5	
+1
+/m/016sp_	/m/015c4g	/m/027dtxw	/m/06ltr	/m/018gz8	/m/02mhfy	
+2
+/m/016sp_	/m/035s95	/m/01r2c7	/m/0gq9h	/m/083skw	
+/m/016sp_	/m/035s95	/m/02kdv5l	/m/0gzy02	/m/0m6x4	/m/083skw	
+1
+/m/041rx	/m/01lct6	/m/01mh_q	/m/07c0j	/m/063_t	
+3
+/m/041rx	/m/01t6b4	/m/023gxx	/m/017fp	
+/m/041rx	/m/0m9c1	/m/0k5px	/m/017fp	
+/m/041rx	/m/08hp53	/m/016tt2	/m/01719t	/m/017fp	
+0
+0
+2
+/m/041rx	/m/06449	/m/02_286	/m/019pkm	
+/m/041rx	/m/0c921	/m/03nqnk3	/m/019pkm	
+3
+/m/0pb33	/m/0d2b38	/m/05t0_2v	/m/02kdv5l	
+/m/0pb33	/m/0d2b38	/m/05szq8z	/m/02kdv5l	
+/m/0pb33	/m/0d2b38	/m/076xkps	/m/02kdv5l	
+1
+/m/0pb33	/m/016tt2	/m/01719t	/m/017fp	/m/0294mx	/m/02xj3rw	
+1
+/m/0pb33	/m/016tt2	/m/08hp53	/m/02_286	/m/05xpv	
+0
+2
+/m/0pb33	/m/016tt2	/m/060c4	/m/02vzc	/m/0jqp3	
+/m/0pb33	/m/016tt2	/m/08hp53	/m/02_286	/m/0170vn	/m/0jqp3	
+3
+/m/0d060g	/m/0lbbj	
+/m/0d060g	/m/0l6ny	/m/03hr1p	/m/0lbbj	
+/m/0d060g	/m/0l6ny	/m/02vzc	/m/0lbbj	
+3
+/m/0d060g	/m/0jjy0	/m/020h2v	
+/m/0d060g	/m/064_8sq	/m/024lt6	/m/020h2v	
+/m/0d060g	/m/064_8sq	/m/0pc62	/m/020h2v	
+3
+/m/0d060g	/m/017gl1	/m/0js9s	
+/m/0d060g	/m/0gmcwlb	/m/0gq9h	/m/0js9s	
+/m/0d060g	/m/0jjy0	/m/02q_cc	/m/0js9s	
+3
+/m/0d060g	/m/064_8sq	/m/01hkhq	
+/m/0d060g	/m/020bv3	/m/0h5g_	/m/01hkhq	
+/m/0d060g	/m/064_8sq	/m/02l4rh	/m/01hkhq	
+2
+/m/0d060g	/m/01hlwv	/m/02_286	/m/019pkm	
+/m/0d060g	/m/0gmcwlb	/m/0gq9h	/m/0c921	/m/03nqnk3	/m/019pkm	
+0
+0
+0
+0
+0
+1
+/m/05b7q	/m/03_8r	/m/02vzc	/m/0bdjd	/m/0rh6k	/m/092bf5	
+1
+/m/05b7q	/m/03_8r	/m/0lbbj	/m/0d060g	/m/022q4l9	/m/080knyg	
+3
+/m/05b7q	/m/0jkvj	
+/m/05b7q	/m/03_8r	/m/0jkvj	
+/m/05b7q	/m/03_8r	/m/0lbbj	/m/03hr1p	/m/0jkvj	
+0
+3
+/m/05b7q	/m/03_8r	/m/0lbbj	/m/0d060g	/m/0154fs	/m/0pqc5	
+/m/05b7q	/m/03_8r	/m/02vzc	/m/0m491	/m/01_d4	/m/0pqc5	
+/m/05b7q	/m/03_8r	/m/02vzc	/m/0jqp3	/m/0fr0t	/m/0pqc5	
+2
+/m/0x67	/m/01wgxtl	/m/01wlt3k	
+/m/0x67	/m/01ws9n6	/m/01wlt3k	
+3
+/m/0x67	/m/01900g	/m/06cgy	/m/0jqj5	
+/m/0x67	/m/04pp9s	/m/05sy_5	/m/0gq9h	/m/0jqj5	
+/m/0x67	/m/0pmhf	/m/034hzj	/m/027dtxw	/m/0jqj5	
+3
+/m/0x67	/m/01l4zqz	
+/m/0x67	/m/01ws9n6	/m/016z4k	/m/01m15br	/m/01l4zqz	
+/m/0x67	/m/01ws9n6	/m/016z4k	/m/02cx90	/m/01l4zqz	
+1
+/m/0x67	/m/01wgxtl	/m/01wlt3k	/m/03x33n	
+3
+/m/0x67	/m/0pmhf	/m/023gxx	/m/017fp	/m/047n8xt	
+/m/0x67	/m/0bv7t	/m/02_286	/m/0crh5_f	/m/0cj16	/m/047n8xt	
+/m/0x67	/m/04pp9s	/m/05sy_5	/m/0gq9h	/m/02z2xdf	/m/047n8xt	
+0
+0
+0
+0
+0
+3
+/m/064_8sq	/m/0d060g	/m/060bp	/m/03676	
+/m/064_8sq	/m/06dfg	/m/03_8r	/m/03676	
+/m/064_8sq	/m/06dfg	/m/060c4	/m/03676	
+1
+/m/064_8sq	/m/024lt6	/m/02_286	/m/03f0fnk	/m/052smk	/m/0326tc	
+2
+/m/064_8sq	/m/06nm1	/m/01wj18h	/m/016z4k	/m/0pkyh	
+/m/064_8sq	/m/06nm1	/m/01wj18h	/m/016z4k	/m/02cx90	/m/0pkyh	
+2
+/m/064_8sq	/m/01jc6q	/m/0gq9h	/m/03xp8d5	/m/07_s4b	
+/m/064_8sq	/m/01jc6q	/m/0gq9h	/m/03xp8d5	/m/03xpfzg	/m/07_s4b	
+3
+/m/064_8sq	/m/0pc62	/m/046qq	
+/m/064_8sq	/m/06nm1	/m/05zlld0	/m/046qq	
+/m/064_8sq	/m/01f85k	/m/02z13jg	/m/046qq	
+3
+/m/01l4zqz	/m/011zf2	
+/m/01l4zqz	/m/01m15br	/m/011zf2	
+/m/01l4zqz	/m/03xgm3	/m/011zf2	
+0
+2
+/m/01l4zqz	/m/05pd94v	/m/0478__m	/m/025sc50	/m/01vxlbm	
+/m/01l4zqz	/m/05pd94v	/m/02w7fs	/m/01wj18h	/m/03mp8k	/m/01vxlbm	
+3
+/m/01l4zqz	/m/01jr6	/m/022q32	/m/015pkc	/m/02s2ft	
+/m/01l4zqz	/m/05pd94v	/m/0478__m	/m/03y82t6	/m/0ds5_72	/m/02s2ft	
+/m/01l4zqz	/m/0x67	/m/0pmhf	/m/034hzj	/m/027dtxw	/m/02s2ft	
+0
+3
+/m/023gxx	/m/017fp	
+/m/023gxx	/m/0pmhf	/m/034hzj	/m/017fp	
+/m/023gxx	/m/06mzp	/m/064_8sq	/m/0g4pl7z	/m/017fp	
+3
+/m/023gxx	/m/017fp	/m/016z9n	/m/0k2mxq	/m/06s6hs	
+/m/023gxx	/m/0pmhf	/m/02d413	/m/09f0bj	/m/06s6hs	
+/m/023gxx	/m/017fp	/m/016z9n	/m/0k2mxq	/m/05np4c	/m/06s6hs	
+3
+/m/023gxx	/m/02vzc	/m/0m491	/m/01_d4	
+/m/023gxx	/m/02vzc	/m/0crh5_f	/m/01_d4	
+/m/023gxx	/m/01t6b4	/m/02_286	/m/0pqc5	/m/01_d4	
+1
+/m/023gxx	/m/01t6b4	/m/02_286	/m/01lct6	/m/01mh_q	
+1
+/m/023gxx	/m/01t6b4	/m/02_286	/m/05xpv	/m/022dp5	
+2
+/m/047q2k1	/m/01chg	
+/m/047q2k1	/m/03rbj2	/m/09yxcz	/m/01chg	
+0
+0
+0
+0
+1
+/m/073v6	/m/03f0324	/m/0ff3y	/m/07dnx	
+0
+0
+3
+/m/073v6	/m/0d060g	/m/012jfb	/m/0jw67	
+/m/073v6	/m/0d060g	/m/06nm1	/m/04dsnp	/m/0jw67	
+/m/073v6	/m/0d060g	/m/01hlwv	/m/02_286	/m/0jw67	
+1
+/m/073v6	/m/0d060g	/m/064_8sq	/m/01hkhq	/m/06j8wx	/m/0524b41	
+1
+/m/0fsv2	/m/0m24v	
+0
+0
+0
+0
+3
+/m/05qd_	/m/0l9k1	
+/m/05qd_	/m/016tt2	/m/0l9k1	
+/m/05qd_	/m/0gq9h	/m/0c921	/m/0gt1k	/m/0l9k1	
+2
+/m/05qd_	/m/02q_cc	/m/01jr6	/m/022q32	
+/m/05qd_	/m/01q2nx	/m/02_286	/m/04fzk	/m/015pkc	/m/022q32	
+3
+/m/05qd_	/m/016tt2	/m/01pvxl	
+/m/05qd_	/m/01q2nx	/m/02_286	/m/04fzk	/m/01pvxl	
+/m/05qd_	/m/0kv2hv	/m/063g7l	/m/018gz8	/m/01ccr8	/m/01pvxl	
+3
+/m/05qd_	/m/01q2nx	/m/02_286	/m/0jw67	
+/m/05qd_	/m/05zlld0	/m/06nm1	/m/04dsnp	/m/0jw67	
+/m/05qd_	/m/05zlld0	/m/0d060g	/m/012jfb	/m/0jw67	
+3
+/m/05qd_	/m/0b2v79	/m/01_d4	/m/01xv77	/m/03nqnnk	
+/m/05qd_	/m/0b2v79	/m/01_d4	/m/023tp8	/m/03nqnnk	
+/m/05qd_	/m/016tt2	/m/01pvxl	/m/0dn3n	/m/03nqnnk	
+0
+1
+/m/07w5rq	/m/05jxkf	/m/02yxjs	/m/01f7j9	/m/04t6fk	/m/02kdv5l	
+1
+/m/07w5rq	/m/05jxkf	/m/02mg5r	/m/083jv	/m/01rtm4	/m/01z_g6	
+0
+1
+/m/07w5rq	/m/05jxkf	/m/02mg5r	/m/083jv	/m/0175rc	/m/02qny_	
+2
+/m/03xp8d5	/m/07_s4b	
+/m/03xp8d5	/m/03xpfzg	/m/07_s4b	
+0
+3
+/m/03xp8d5	/m/041rx	/m/0175wg	/m/01qrbf	
+/m/03xp8d5	/m/041rx	/m/0175wg	/m/020bv3	/m/01qrbf	
+/m/03xp8d5	/m/041rx	/m/0175wg	/m/0h5g_	/m/01qrbf	
+3
+/m/03xp8d5	/m/041rx	/m/01t6b4	/m/023gxx	
+/m/03xp8d5	/m/0gq9h	/m/0bdjd	/m/02vzc	/m/023gxx	
+/m/03xp8d5	/m/0gq9h	/m/0k5px	/m/017fp	/m/023gxx	
+3
+/m/03xp8d5	/m/041rx	/m/03xp8d5	
+/m/03xp8d5	/m/0gq9h	/m/03xp8d5	
+/m/03xp8d5	/m/01jgpsh	/m/03xp8d5	
+2
+/m/0jqj5	/m/05br10	
+/m/0jqj5	/m/0gq9h	/m/05qd_	/m/02kfzz	/m/05br10	
+1
+/m/0jqj5	/m/0gq9h	/m/0bdjd	/m/0rh6k	/m/092bf5	
+3
+/m/0jqj5	/m/06cgy	/m/01900g	/m/0x67	/m/01l4zqz	
+/m/0jqj5	/m/0gq9h	/m/05qd_	/m/02q_cc	/m/01jr6	/m/01l4zqz	
+/m/0jqj5	/m/027dtxw	/m/015c4g	/m/016sp_	/m/02cx90	/m/01l4zqz	
+2
+/m/0jqj5	/m/064_8sq	/m/0d060g	/m/04w7rn	/m/094hwz	
+/m/0jqj5	/m/064_8sq	/m/01sbv9	/m/01zhp	/m/05650n	/m/094hwz	
+3
+/m/0jqj5	/m/027dtxw	/m/02s2ft	
+/m/0jqj5	/m/027dtxw	/m/01chpn	/m/02s2ft	
+/m/0jqj5	/m/0gq9h	/m/04v8x9	/m/02kdv5l	/m/03k8th	/m/02s2ft	
+1
+/m/04b2qn	/m/02x4wr9	/m/017z49	/m/0184jc	/m/02fwfb	/m/04228s	
+3
+/m/04b2qn	/m/022q4l9	/m/0d060g	/m/0lbbj	
+/m/04b2qn	/m/0cj16	/m/08052t3	/m/02vzc	/m/0lbbj	
+/m/04b2qn	/m/0cj16	/m/08052t3	/m/06mzp	/m/0lbbj	
+0
+2
+/m/04b2qn	/m/022q4l9	
+/m/04b2qn	/m/0cj16	/m/08052t3	/m/0d060g	/m/022q4l9	
+0
+3
+/m/01hkhq	/m/02l4rh	
+/m/01hkhq	/m/064_8sq	/m/02l4rh	
+/m/01hkhq	/m/06j8wx	/m/02l4rh	
+0
+2
+/m/01hkhq	/m/064_8sq	/m/024lt6	/m/02_286	/m/0992d9	
+/m/01hkhq	/m/064_8sq	/m/0jqj5	/m/06cgy	/m/0992d9	
+1
+/m/01hkhq	/m/064_8sq	/m/01jc6q	/m/0gq9h	/m/0bzk2h	/m/033rq	
+3
+/m/01hkhq	/m/064_8sq	/m/020bv3	
+/m/01hkhq	/m/0h5g_	/m/020bv3	
+/m/01hkhq	/m/064_8sq	/m/0d060g	/m/020bv3	
+3
+/m/03m2fg	/m/02_286	/m/01lct6	/m/018gz8	
+/m/03m2fg	/m/02_286	/m/02_n5d	/m/018gz8	
+/m/03m2fg	/m/02_286	/m/01wj9y9	/m/018gz8	
+1
+/m/03m2fg	/m/02_286	/m/0161sp	/m/0x67	/m/09f0bj	/m/05np4c	
+2
+/m/03m2fg	/m/02_286	/m/0161sp	/m/0x67	/m/01wgxtl	/m/01wlt3k	
+/m/03m2fg	/m/02_286	/m/0161sp	/m/0x67	/m/01ws9n6	/m/01wlt3k	
+3
+/m/03m2fg	/m/02_286	/m/0478__m	/m/05pd94v	/m/016srn	
+/m/03m2fg	/m/02_286	/m/04fc6c	/m/016376	/m/04gmlt	/m/016srn	
+/m/03m2fg	/m/02_286	/m/01q2nx	/m/015c4g	/m/016sp_	/m/016srn	
+0
+3
+/m/06k75	/m/02vzc	
+/m/06k75	/m/03pn9	/m/060c4	/m/02vzc	
+/m/06k75	/m/0d060g	/m/0l6ny	/m/02vzc	
+1
+/m/06k75	/m/02vzc	/m/0jjy0	/m/02q_cc	/m/01jr6	/m/022q32	
+0
+3
+/m/06k75	/m/02vzc	/m/0jqp3	/m/01yd8v	/m/016sp_	
+/m/06k75	/m/02vzc	/m/017gl1	/m/02kdv5l	/m/035s95	/m/016sp_	
+/m/06k75	/m/02vzc	/m/024lt6	/m/02x4wr9	/m/015c4g	/m/016sp_	
+0
+0
+0
+1
+/m/01ljpm	/m/060c4	/m/03h2c	/m/06nm1	/m/02rn00y	/m/02qyxs5	
+3
+/m/01ljpm	/m/060c4	/m/016tt2	/m/05qd_	/m/0b2v79	
+/m/01ljpm	/m/060c4	/m/0d0kn	/m/0fphf3v	/m/06cgy	/m/0b2v79	
+/m/01ljpm	/m/060c4	/m/02vzc	/m/0m491	/m/01_d4	/m/0b2v79	
+3
+/m/01ljpm	/m/060c4	/m/016tt2	/m/0gq9h	/m/02z2xdf	/m/047n8xt	
+/m/01ljpm	/m/060c4	/m/016tt2	/m/01719t	/m/017fp	/m/047n8xt	
+/m/01ljpm	/m/060c4	/m/016tt2	/m/0pd64	/m/0cj16	/m/047n8xt	
+1
+/m/0l1589	/m/01s0ps	
+0
+0
+0
+0
+3
+/m/0bmpm	/m/05qd_	
+/m/0bmpm	/m/0gq9h	/m/05qd_	
+/m/0bmpm	/m/0gq9h	/m/0bdjd	/m/05qd_	
+2
+/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/01vv7sc	/m/02f73p	
+/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/0pkyh	/m/02f73p	
+3
+/m/0bmpm	/m/05qd_	/m/0l9k1	
+/m/0bmpm	/m/05qd_	/m/016tt2	/m/0l9k1	
+/m/0bmpm	/m/0gq9h	/m/0c921	/m/0gt1k	/m/0l9k1	
+0
+1
+/m/0bmpm	/m/05qd_	/m/0b2v79	/m/01_d4	/m/02bf58	
+3
+/m/0p_qr	/m/046qq	
+/m/0p_qr	/m/0bzlrh	/m/046qq	
+/m/0p_qr	/m/02z13jg	/m/046qq	
+0
+3
+/m/0p_qr	/m/0gq9h	/m/05sy_5	/m/04pp9s	/m/0kz2w	/m/083jv	
+/m/0p_qr	/m/0gq9h	/m/0bdjd	/m/0rh6k	/m/03lpp_	/m/083jv	
+/m/0p_qr	/m/0gq9h	/m/016tt2	/m/060c4	/m/0175rc	/m/083jv	
+2
+/m/0p_qr	/m/079hvk	/m/01_d4	/m/0pqc5	/m/01jr6	/m/01l4zqz	
+/m/0p_qr	/m/046qq	/m/05zlld0	/m/01l1b90	/m/0x67	/m/01l4zqz	
+3
+/m/0p_qr	/m/0gq9h	/m/04b2qn	
+/m/0p_qr	/m/02z13jg	/m/0gmcwlb	/m/02x4wr9	/m/04b2qn	
+/m/0p_qr	/m/02z13jg	/m/01f85k	/m/0cj16	/m/04b2qn	
+1
+/m/04ly1	/m/03x33n	
+0
+0
+0
+0
+3
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/0bdjd	/m/0gq9h	/m/0p_qr	
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/0gmcwlb	/m/02z13jg	/m/0p_qr	
+/m/02y_rq5	/m/03c_cxn	/m/02rdxsh	/m/0jqj5	/m/0bzlrh	/m/0p_qr	
+3
+/m/02y_rq5	/m/04fzk	/m/01pvxl	/m/016tt2	
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/060c4	/m/016tt2	
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/08052t3	/m/016tt2	
+0
+0
+3
+/m/02y_rq5	/m/04fzk	/m/02_286	/m/01q2nx	
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/017gl1	/m/02kdv5l	/m/01q2nx	
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/0m491	/m/05qd_	/m/01q2nx	
+3
+/m/05np4c	/m/06s6hs	
+/m/05np4c	/m/0k2mxq	/m/06s6hs	
+/m/05np4c	/m/09f0bj	/m/06s6hs	
+1
+/m/05np4c	/m/09f0bj	/m/0x67	/m/0bv7t	/m/02_286	/m/0738b8	
+0
+1
+/m/05np4c	/m/09f0bj	/m/0x67	/m/0bv7t	/m/02_286	/m/019pkm	
+1
+/m/05np4c	/m/09f0bj	/m/0x67	/m/01ws9n6	/m/016z4k	/m/02h9_l	
+2
+/m/0m6x4	/m/083skw	
+/m/0m6x4	/m/0gzy02	/m/0gq9h	/m/083skw	
+0
+0
+0
+3
+/m/0m6x4	/m/083skw	/m/0gq9h	/m/0bzk2h	/m/06cgy	
+/m/0m6x4	/m/083skw	/m/0gq9h	/m/0jqj5	/m/06cgy	
+/m/0m6x4	/m/044qx	/m/0gxfz	/m/027vps	/m/02_286	/m/06cgy	
+2
+/m/04gmlt	/m/016srn	/m/02cx90	/m/0249kn	
+/m/04gmlt	/m/016srn	/m/02cx90	/m/0m_31	/m/0249kn	
+0
+2
+/m/04gmlt	/m/0kvnn	/m/016z4k	/m/0161sp	/m/0pmhf	
+/m/04gmlt	/m/016376	/m/025sc50	/m/01wzlxj	/m/0x67	/m/0pmhf	
+0
+3
+/m/04gmlt	/m/016srn	/m/05pd94v	/m/03xgm3	
+/m/04gmlt	/m/016srn	/m/02cx90	/m/03xgm3	
+/m/04gmlt	/m/016srn	/m/05pd94v	/m/01m15br	/m/03xgm3	
+2
+/m/041rx	/m/01nvmd_	/m/0gvsh7l	/m/0cqh6z	/m/01z_g6	
+/m/041rx	/m/0175wg	/m/0h5g_	/m/035s95	/m/01z_g6	
+0
+2
+/m/041rx	/m/01lct6	/m/01mh_q	
+/m/041rx	/m/044mfr	/m/025sc50	/m/01wj18h	/m/02w7fs	/m/01mh_q	
+3
+/m/041rx	/m/0175wg	/m/020bv3	/m/0d060g	/m/0gdh5	
+/m/041rx	/m/06449	/m/02_286	/m/0478__m	/m/01c99j	/m/0gdh5	
+/m/041rx	/m/023tp8	/m/03nqnnk	/m/0dn3n	/m/014_x2	/m/0gdh5	
+1
+/m/041rx	/m/0hskw	/m/018gz8	/m/04nw9	
+3
+/m/06j8wx	/m/01hkhq	
+/m/06j8wx	/m/02l4rh	/m/01hkhq	
+/m/06j8wx	/m/02l4rh	/m/064_8sq	/m/01hkhq	
+0
+1
+/m/06j8wx	/m/08y2fn	/m/07kjk7c	/m/015pxr	/m/018gz8	/m/02mhfy	
+1
+/m/06j8wx	/m/01hkhq	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/025sc50	
+1
+/m/06j8wx	/m/01hkhq	/m/064_8sq	/m/0d060g	/m/022q4l9	/m/05ztm4r	
+2
+/m/0gq9h	/m/05qb8vx	/m/02rn00y	
+/m/0gq9h	/m/05sy_5	/m/06nm1	/m/02rn00y	
+3
+/m/0gq9h	/m/0jqj5	/m/064_8sq	/m/02l4rh	
+/m/0gq9h	/m/01_f_5	/m/05q5t0b	/m/02l4rh	
+/m/0gq9h	/m/0bdjd	/m/02vzc	/m/0ggbfwf	/m/02l4rh	
+2
+/m/0gq9h	/m/0gmcwlb	/m/0d060g	/m/073v6	
+/m/0gq9h	/m/03xp8d5	/m/041rx	/m/03f0324	/m/073v6	
+3
+/m/0gq9h	/m/05sy_5	/m/0337vz	/m/0x67	/m/01ws9n6	
+/m/0gq9h	/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/01ws9n6	
+/m/0gq9h	/m/05sy_5	/m/0337vz	/m/0x67	/m/01wgxtl	/m/01ws9n6	
+1
+/m/0gq9h	/m/027vps	/m/02_286	/m/0pqc5	/m/0100mt	
+2
+/m/0dn3n	/m/01pvxl	
+/m/0dn3n	/m/03nqnnk	/m/02mhfy	/m/018gz8	/m/01ccr8	/m/01pvxl	
+3
+/m/0dn3n	/m/014_x2	/m/0gdh5	/m/01c99j	
+/m/0dn3n	/m/01pvxl	/m/04fzk	/m/02_286	/m/0478__m	/m/01c99j	
+/m/0dn3n	/m/01pvxl	/m/04fzk	/m/02_286	/m/0127s7	/m/01c99j	
+3
+/m/0dn3n	/m/01pvxl	/m/016tt2	/m/05qd_	/m/0b2v79	
+/m/0dn3n	/m/03nqnnk	/m/01xv77	/m/01_d4	/m/0b2v79	
+/m/0dn3n	/m/01pvxl	/m/04fzk	/m/02_286	/m/06cgy	/m/0b2v79	
+1
+/m/0dn3n	/m/01pvxl	/m/016tt2	/m/0gq9h	/m/02q52q	/m/04mby	
+0
+3
+/m/0209xj	/m/01_f_5	
+/m/0209xj	/m/02x4wr9	/m/01_f_5	
+/m/0209xj	/m/0gq9h	/m/01_f_5	
+3
+/m/0209xj	/m/0gq9h	/m/05qd_	/m/05zlld0	
+/m/0209xj	/m/02x4wr9	/m/024lt6	/m/06nm1	/m/05zlld0	
+/m/0209xj	/m/02x4wr9	/m/0gmcwlb	/m/0d060g	/m/05zlld0	
+2
+/m/0209xj	/m/02rdxsh	/m/017gl1	/m/02kdv5l	/m/03k8th	
+/m/0209xj	/m/02x4wr9	/m/015c4g	/m/027dtxw	/m/02s2ft	/m/03k8th	
+0
+3
+/m/0209xj	/m/01_f_5	/m/02_286	/m/01q2nx	
+/m/0209xj	/m/02x4wr9	/m/015c4g	/m/01q2nx	
+/m/0209xj	/m/0gq9h	/m/05qd_	/m/01q2nx	
+3
+/m/016tt2	/m/0gq9h	/m/0p_qr	/m/02z13jg	/m/02vxn	
+/m/016tt2	/m/055td_	/m/027dtxw	/m/06ltr	/m/02vxn	
+/m/016tt2	/m/060c4	/m/06fq2	/m/0f4vx0	/m/09f2j	/m/02vxn	
+3
+/m/016tt2	/m/0gq9h	/m/0hskw	/m/018gz8	/m/02mhfy	
+/m/016tt2	/m/01pvxl	/m/0dn3n	/m/03nqnnk	/m/02mhfy	
+/m/016tt2	/m/0gq9h	/m/0hskw	/m/018gz8	/m/029_3	/m/02mhfy	
+2
+/m/016tt2	/m/08hp53	/m/02_286	/m/03f0fnk	
+/m/016tt2	/m/0gq9h	/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/03f0fnk	
+2
+/m/016tt2	/m/03pc89	/m/015c4g	/m/016sp_	/m/02cx90	/m/0pkyh	
+/m/016tt2	/m/0gq9h	/m/0bmpm	/m/01vsy9_	/m/016z4k	/m/0pkyh	
+2
+/m/016tt2	/m/01719t	/m/017fp	/m/02z0f6l	
+/m/016tt2	/m/0pd64	/m/0cj16	/m/02z0f6l	
+3
+/m/02ldkf	/m/07tf8	/m/01rc6f	/m/05jxkf	
+/m/02ldkf	/m/07tf8	/m/015cz0	/m/05jxkf	
+/m/02ldkf	/m/07tf8	/m/02km0m	/m/083jv	/m/02mg5r	/m/05jxkf	
+0
+0
+0
+0
+3
+/m/0gq9h	/m/0bz6sb	/m/03pc89	
+/m/0gq9h	/m/016tt2	/m/03pc89	
+/m/0gq9h	/m/0jqj5	/m/027dtxw	/m/015c4g	/m/03pc89	
+3
+/m/0gq9h	/m/05qd_	
+/m/0gq9h	/m/0bdjd	/m/05qd_	
+/m/0gq9h	/m/016tt2	/m/05qd_	
+3
+/m/0gq9h	/m/0bdjd	/m/02vzc	/m/0ct5zc	/m/02y_rq5	
+/m/0gq9h	/m/0jqj5	/m/064_8sq	/m/01hkhq	/m/02y_rq5	
+/m/0gq9h	/m/0jqj5	/m/02rdxsh	/m/03c_cxn	/m/02y_rq5	
+1
+/m/0gq9h	/m/0209xj	/m/01t_vv	/m/0cs134	/m/02_3zj	
+3
+/m/0gq9h	/m/01r2c7	/m/035s95	/m/016sp_	
+/m/0gq9h	/m/0bz6sb	/m/03pc89	/m/015c4g	/m/016sp_	
+/m/0gq9h	/m/0bzk2h	/m/06cgy	/m/0234j5	/m/01yd8v	/m/016sp_	
+2
+/m/03nqnk3	/m/033rq	
+/m/03nqnk3	/m/0c921	/m/0gq9h	/m/0bzk2h	/m/033rq	
+2
+/m/03nqnk3	/m/019pkm	/m/02_286	/m/02x8fs	/m/0d608	
+/m/03nqnk3	/m/0c921	/m/041rx	/m/01t6b4	/m/0pc62	/m/0d608	
+2
+/m/03nqnk3	/m/0c921	/m/041rx	/m/03f0324	/m/073v6	
+/m/03nqnk3	/m/0c921	/m/0gq9h	/m/0gmcwlb	/m/0d060g	/m/073v6	
+2
+/m/03nqnk3	/m/0c921	/m/0gq9h	/m/0jqj5	/m/05br10	
+/m/03nqnk3	/m/0c921	/m/0gq9h	/m/05qd_	/m/02kfzz	/m/05br10	
+1
+/m/03nqnk3	/m/0c921	/m/0gq9h	/m/016tt2	/m/060c4	/m/0175rc	
+1
+/m/012gbb	/m/0gmtm	
+0
+0
+2
+/m/012gbb	/m/0gmtm	/m/0bw87	/m/0gxfz	/m/064_8sq	/m/0jqj5	
+/m/012gbb	/m/0gmtm	/m/0bw87	/m/0gxfz	/m/0gq9h	/m/0jqj5	
+0
+3
+/m/0pd64	/m/0cj16	/m/08052t3	/m/02vzc	
+/m/0pd64	/m/0cj16	/m/01srq2	/m/02vzc	
+/m/0pd64	/m/0cj16	/m/01f85k	/m/02vzc	
+3
+/m/0pd64	/m/016tt2	/m/060c4	/m/0kz2w	
+/m/0pd64	/m/0rh6k	/m/03lpp_	/m/083jv	/m/0kz2w	
+/m/0pd64	/m/0gq9h	/m/05sy_5	/m/04pp9s	/m/0kz2w	
+2
+/m/0pd64	/m/0cj16	/m/07yk1xz	/m/017fp	/m/02chhq	
+/m/0pd64	/m/064_8sq	/m/01hkhq	/m/06j8wx	/m/02chhq	
+1
+/m/0pd64	/m/0gq9h	/m/0hskw	/m/018gz8	/m/0glmv	
+1
+/m/0pd64	/m/064_8sq	/m/06dfg	/m/018wl5	/m/049nq	/m/0j11	
+2
+/m/060c4	/m/03676	/m/03_8r	/m/05b7q	
+/m/060c4	/m/03676	/m/03_8r	/m/0jkvj	/m/05b7q	
+2
+/m/060c4	/m/016tt2	/m/0gq9h	/m/0jqj5	/m/05br10	
+/m/060c4	/m/016tt2	/m/05qd_	/m/02kfzz	/m/05br10	
+1
+/m/060c4	/m/016tt2	/m/08052t3	/m/06mzp	/m/0j6b5	
+1
+/m/060c4	/m/016tt2	/m/0gq9h	/m/02z2xdf	/m/047n8xt	/m/02r6c_	
+3
+/m/060c4	/m/0d0kn	/m/03hr1p	
+/m/060c4	/m/02vzc	/m/03hr1p	
+/m/060c4	/m/02vzc	/m/0l6ny	/m/03hr1p	
+2
+/m/064nh4k	/m/032q8q	
+/m/064nh4k	/m/080knyg	/m/032q8q	
+3
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/0l6ny	
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/06k75	/m/02vzc	/m/0l6ny	
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/0lbbj	/m/03hr1p	/m/0l6ny	
+2
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/01hlwv	/m/02_286	/m/02_n5d	
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/028d4v	/m/018gz8	/m/02_n5d	
+1
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/01hlwv	/m/02_286	/m/019pkm	
+2
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/020bv3	
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/064_8sq	/m/020bv3	
+3
+/m/01hlwv	/m/02_286	
+/m/01hlwv	/m/0d060g	/m/01sby_	/m/02_286	
+/m/01hlwv	/m/0d060g	/m/064_8sq	/m/024lt6	/m/02_286	
+1
+/m/01hlwv	/m/02_286	/m/01vlj1g	/m/0fphf3v	/m/01p4vl	
+3
+/m/01hlwv	/m/02_286	/m/019pkm	/m/03nqnk3	
+/m/01hlwv	/m/02_286	/m/014x77	/m/041rx	/m/0c921	/m/03nqnk3	
+/m/01hlwv	/m/02_286	/m/06cgy	/m/0bzk2h	/m/033rq	/m/03nqnk3	
+3
+/m/01hlwv	/m/0d060g	/m/022q4l9	/m/064nh4k	
+/m/01hlwv	/m/0d060g	/m/022q4l9	/m/080knyg	/m/064nh4k	
+/m/01hlwv	/m/0d060g	/m/022q4l9	/m/05ztm4r	/m/064nh4k	
+3
+/m/01hlwv	/m/02_286	/m/01q2nx	
+/m/01hlwv	/m/02_286	/m/0dgrwqr	/m/02kdv5l	/m/01q2nx	
+/m/01hlwv	/m/0d060g	/m/0m491	/m/05qd_	/m/01q2nx	
+3
+/m/0p9tm	/m/0gq9h	/m/016tt2	
+/m/0p9tm	/m/0cj16	/m/0pd64	/m/016tt2	
+/m/0p9tm	/m/0cj16	/m/08052t3	/m/016tt2	
+0
+2
+/m/0p9tm	/m/0cj16	/m/08052t3	/m/02vzc	/m/03_8r	/m/05b7q	
+/m/0p9tm	/m/0cj16	/m/08052t3	/m/06mzp	/m/0jkvj	/m/05b7q	
+3
+/m/0p9tm	/m/06nm1	/m/05zlld0	/m/046qq	
+/m/0p9tm	/m/0gq9h	/m/0p_qr	/m/046qq	
+/m/0p9tm	/m/02kdv5l	/m/0pc62	/m/046qq	
+3
+/m/0p9tm	/m/0cj16	/m/04b2qn	/m/022q4l9	/m/064nh4k	
+/m/0p9tm	/m/0cj16	/m/04b2qn	/m/022q4l9	/m/080knyg	/m/064nh4k	
+/m/0p9tm	/m/0cj16	/m/04b2qn	/m/022q4l9	/m/05ztm4r	/m/064nh4k	
+3
+/m/0d060g	/m/0l6ny	/m/03hr1p	/m/0jkvj	
+/m/0d060g	/m/064_8sq	/m/06mzp	/m/0jkvj	
+/m/0d060g	/m/0lbbj	/m/03_8r	/m/0jkvj	
+3
+/m/0d060g	/m/064_8sq	/m/04fzfj	/m/08hp53	
+/m/0d060g	/m/01qb5d	/m/016tt2	/m/08hp53	
+/m/0d060g	/m/01hlwv	/m/02_286	/m/08hp53	
+3
+/m/0d060g	/m/0274ck	/m/016z4k	/m/01m15br	/m/03xgm3	
+/m/0d060g	/m/0274ck	/m/016z4k	/m/02cx90	/m/03xgm3	
+/m/0d060g	/m/06nm1	/m/01wj18h	/m/02w7fs	/m/05pd94v	/m/03xgm3	
+1
+/m/0d060g	/m/0m491	/m/05qd_	/m/012gk9	
+0
+3
+/m/015q1n	/m/0f4vx0	/m/09f2j	/m/05jxkf	
+/m/015q1n	/m/0f4vx0	/m/09f2j	/m/027f2w	/m/05hf_5	/m/05jxkf	
+/m/015q1n	/m/0f4vx0	/m/09f2j	/m/027f2w	/m/01hc1j	/m/05jxkf	
+0
+0
+0
+0
+2
+/m/0x67	/m/0770cd	/m/025sc50	/m/01vxlbm	
+/m/0x67	/m/0bv7t	/m/02_286	/m/03mp8k	/m/01vxlbm	
+3
+/m/0x67	/m/09f0bj	/m/06s6hs	
+/m/0x67	/m/09f0bj	/m/05np4c	/m/06s6hs	
+/m/0x67	/m/09f0bj	/m/0k2mxq	/m/06s6hs	
+1
+/m/0x67	/m/0bv7t	/m/02_286	/m/03m2fg	
+2
+/m/0x67	/m/0bv7t	/m/02_286	/m/01hlwv	
+/m/0x67	/m/01l1b90	/m/05zlld0	/m/0d060g	/m/01hlwv	
+3
+/m/0x67	/m/0161sp	
+/m/0x67	/m/0pmhf	/m/0161sp	
+/m/0x67	/m/01ws9n6	/m/016z4k	/m/0161sp	
+1
+/m/0dq9p	/m/01wj9y9	/m/02_286	/m/05xpv	
+0
+1
+/m/0dq9p	/m/01wj9y9	/m/018gz8	/m/01pcbg	/m/04g73n	/m/01zhp	
+1
+/m/0dq9p	/m/01wj9y9	/m/02_286	/m/0478__m	/m/05pd94v	/m/016srn	
+1
+/m/0dq9p	/m/0c921	/m/0gq9h	/m/02z2xdf	/m/047n8xt	/m/02r6c_	
+3
+/m/064nh4k	/m/022q4l9	
+/m/064nh4k	/m/05ztm4r	/m/022q4l9	
+/m/064nh4k	/m/080knyg	/m/022q4l9	
+1
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/073v6	/m/03f0324	/m/0683n	
+3
+/m/064nh4k	/m/022q4l9	/m/0d060g	
+/m/064nh4k	/m/022q4l9	/m/04b2qn	/m/0cj16	/m/08052t3	/m/0d060g	
+/m/064nh4k	/m/022q4l9	/m/04b2qn	/m/0cj16	/m/01srq2	/m/0d060g	
+2
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/01hlwv	
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/01sby_	/m/02_286	/m/01hlwv	
+1
+/m/064nh4k	/m/022q4l9	/m/0d060g	/m/0154fs	/m/0pqc5	/m/0100mt	
+3
+/m/016srn	/m/02cx90	
+/m/016srn	/m/05pd94v	/m/02cx90	
+/m/016srn	/m/016sp_	/m/02cx90	
+2
+/m/016srn	/m/016sp_	/m/01yd8v	/m/0jqp3	/m/02vzc	/m/04w7rn	
+/m/016srn	/m/02cx90	/m/016z4k	/m/0274ck	/m/0d060g	/m/04w7rn	
+3
+/m/016srn	/m/05pd94v	/m/01bpc9	/m/02_286	/m/011yth	/m/020h2v	
+/m/016srn	/m/05pd94v	/m/01bpc9	/m/02_286	/m/01t6b4	/m/020h2v	
+/m/016srn	/m/05pd94v	/m/01bpc9	/m/02_286	/m/024lt6	/m/020h2v	
+0
+1
+/m/016srn	/m/05pd94v	/m/01l4zqz	/m/0x67	/m/03f3_p3	/m/017_pb	
+1
+/m/0j6b5	/m/06mzp	/m/064_8sq	/m/0d060g	/m/04w7rn	/m/094hwz	
+0
+1
+/m/0j6b5	/m/06mzp	/m/064_8sq	/m/024lt6	/m/02_286	/m/03f0fnk	
+0
+3
+/m/0j6b5	/m/06mzp	/m/08052t3	/m/016tt2	/m/03pc89	
+/m/0j6b5	/m/06mzp	/m/0gmcwlb	/m/02x4wr9	/m/015c4g	/m/03pc89	
+/m/0j6b5	/m/06mzp	/m/0gmcwlb	/m/0gq9h	/m/0bz6sb	/m/03pc89	
+3
+/m/0jqp3	/m/0170vn	
+/m/0jqp3	/m/0fr0t	/m/0pqc5	/m/02_286	/m/0170vn	
+/m/0jqp3	/m/02vzc	/m/023gxx	/m/0pmhf	/m/09pnw5	/m/0170vn	
+0
+0
+3
+/m/0jqp3	/m/02vzc	/m/0bdjd	/m/0gq9h	/m/04b2qn	
+/m/0jqp3	/m/02vzc	/m/08052t3	/m/0cj16	/m/04b2qn	
+/m/0jqp3	/m/02vzc	/m/024lt6	/m/02x4wr9	/m/04b2qn	
+0
+3
+/m/019pkm	/m/02_286	
+/m/019pkm	/m/03nqnk3	/m/0c921	/m/0dq9p	/m/01wj9y9	/m/02_286	
+/m/019pkm	/m/03nqnk3	/m/0c921	/m/041rx	/m/06449	/m/02_286	
+3
+/m/019pkm	/m/02_286	/m/09ftwr	/m/0gq9h	/m/0js9s	
+/m/019pkm	/m/02_286	/m/01hlwv	/m/0d060g	/m/017gl1	/m/0js9s	
+/m/019pkm	/m/02_286	/m/01q2nx	/m/05qd_	/m/02q_cc	/m/0js9s	
+3
+/m/019pkm	/m/02_286	/m/0161sp	/m/016z4k	/m/0pkyh	
+/m/019pkm	/m/02_286	/m/03mp8k	/m/01vwbts	/m/02f73p	/m/0pkyh	
+/m/019pkm	/m/02_286	/m/0161sp	/m/016z4k	/m/02cx90	/m/0pkyh	
+3
+/m/019pkm	/m/03nqnk3	
+/m/019pkm	/m/02_286	/m/014x77	/m/041rx	/m/0c921	/m/03nqnk3	
+/m/019pkm	/m/02_286	/m/06cgy	/m/0bzk2h	/m/033rq	/m/03nqnk3	
+1
+/m/019pkm	/m/02_286	/m/0dgrwqr	/m/02vzc	/m/02j9z	/m/049nq	
+1
+/m/0j11	/m/049nq	
+3
+/m/0j11	/m/049nq	/m/02j9z	/m/04v3q	
+/m/0j11	/m/049nq	/m/02j9z	/m/0d0kn	/m/060c4	/m/04v3q	
+/m/0j11	/m/049nq	/m/02j9z	/m/0d0kn	/m/060bp	/m/04v3q	
+0
+0
+1
+/m/0j11	/m/049nq	/m/02j9z	/m/0d0kn	/m/060c4	/m/0175rc	
+3
+/m/0h5g_	/m/020bv3	
+/m/0h5g_	/m/05vsxz	/m/020bv3	
+/m/0h5g_	/m/0175wg	/m/020bv3	
+3
+/m/0h5g_	/m/035s95	/m/01z_g6	/m/0cqh6z	/m/09f0bj	
+/m/0h5g_	/m/05vsxz	/m/0pmhf	/m/02d413	/m/09f0bj	
+/m/0h5g_	/m/05vsxz	/m/0pmhf	/m/0x67	/m/09f0bj	
+1
+/m/0h5g_	/m/02tk74	/m/02_286	/m/03f0fnk	/m/052smk	/m/0326tc	
+3
+/m/0h5g_	/m/02tk74	/m/02_286	/m/08hp53	
+/m/0h5g_	/m/0175wg	/m/041rx	/m/08hp53	
+/m/0h5g_	/m/02tk74	/m/02_286	/m/04fzfj	/m/08hp53	
+3
+/m/0h5g_	/m/035s95	/m/01r2c7	/m/0gq9h	/m/0p_qr	
+/m/0h5g_	/m/01hkhq	/m/064_8sq	/m/0pc62	/m/046qq	/m/0p_qr	
+/m/0h5g_	/m/01hkhq	/m/064_8sq	/m/01f85k	/m/02z13jg	/m/0p_qr	
+3
+/m/01l4zqz	/m/03xgm3	
+/m/01l4zqz	/m/05pd94v	/m/03xgm3	
+/m/01l4zqz	/m/01m15br	/m/03xgm3	
+2
+/m/01l4zqz	/m/01jr6	/m/0pqc5	/m/0fr0t	
+/m/01l4zqz	/m/02cx90	/m/016sp_	/m/01yd8v	/m/0jqp3	/m/0fr0t	
+3
+/m/01l4zqz	/m/05pd94v	/m/01bpc9	/m/02_286	/m/0126y2	
+/m/01l4zqz	/m/05pd94v	/m/0478__m	/m/025sc50	/m/0126y2	
+/m/01l4zqz	/m/0x67	/m/01l1b90	/m/01kgxf	/m/0ct2tf5	/m/0126y2	
+3
+/m/01l4zqz	/m/01jr6	/m/02q_cc	/m/0jjy0	/m/02vzc	
+/m/01l4zqz	/m/0x67	/m/0pmhf	/m/023gxx	/m/02vzc	
+/m/01l4zqz	/m/05pd94v	/m/01bpc9	/m/02_286	/m/0dgrwqr	/m/02vzc	
+0
+3
+/m/01c99j	/m/0127s7	/m/02_286	/m/01lct6	/m/01mh_q	
+/m/01c99j	/m/03y82t6	/m/01wj18h	/m/02w7fs	/m/01mh_q	
+/m/01c99j	/m/0478__m	/m/05pd94v	/m/02hgm4	/m/01mh_q	
+1
+/m/01c99j	/m/0127s7	/m/02_286	/m/01vlj1g	/m/0fphf3v	/m/01p4vl	
+3
+/m/01c99j	/m/0gdh5	/m/0d060g	/m/020bv3	/m/05vsxz	
+/m/01c99j	/m/0127s7	/m/02_286	/m/0161sp	/m/0pmhf	/m/05vsxz	
+/m/01c99j	/m/0127s7	/m/02_286	/m/02tk74	/m/0h5g_	/m/05vsxz	
+1
+/m/01c99j	/m/0gdh5	/m/0d060g	/m/0g4pl7z	/m/017fp	/m/02chhq	
+0
+2
+/m/05650n	/m/02qyxs5	
+/m/05650n	/m/01zhp	/m/01sbv9	/m/06nm1	/m/02rn00y	/m/02qyxs5	
+1
+/m/05650n	/m/094hwz	/m/04w7rn	/m/02vzc	/m/060c4	/m/0178g	
+1
+/m/05650n	/m/01zhp	/m/04g73n	/m/01pcbg	/m/018gz8	/m/0glmv	
+0
+0
+2
+/m/0crh5_f	/m/02_286	/m/0dgrwqr	/m/0fpkxfd	
+/m/0crh5_f	/m/01_d4	/m/0m491	/m/0d060g	/m/0g4pl7z	/m/0fpkxfd	
+1
+/m/0crh5_f	/m/02vzc	/m/060c4	/m/0178g	
+3
+/m/0crh5_f	/m/01_d4	/m/0m491	/m/0d060g	/m/087wc7n	/m/01zhp	
+/m/0crh5_f	/m/02_286	/m/04fzfj	/m/064_8sq	/m/01sbv9	/m/01zhp	
+/m/0crh5_f	/m/02vzc	/m/04w7rn	/m/094hwz	/m/05650n	/m/01zhp	
+2
+/m/0crh5_f	/m/01_d4	/m/0m491	/m/05qd_	/m/08k40m	
+/m/0crh5_f	/m/02_286	/m/0dgrwqr	/m/02kdv5l	/m/08k40m	
+3
+/m/0crh5_f	/m/02vzc	/m/0ggbfwf	/m/02l4rh	/m/06j8wx	
+/m/0crh5_f	/m/02_286	/m/04fzk	/m/02y_rq5	/m/01hkhq	/m/06j8wx	
+/m/0crh5_f	/m/0cj16	/m/07yk1xz	/m/017fp	/m/02chhq	/m/06j8wx	
+3
+/m/04dsnp	/m/0jw67	
+/m/04dsnp	/m/02_286	/m/0jw67	
+/m/04dsnp	/m/06nm1	/m/0d060g	/m/012jfb	/m/0jw67	
+2
+/m/04dsnp	/m/02_286	/m/0lrh	/m/03f0324	/m/0683n	
+/m/04dsnp	/m/02_286	/m/0lrh	/m/03f0324	/m/0lcx	/m/0683n	
+3
+/m/04dsnp	/m/02_286	/m/0161sp	/m/0pmhf	/m/034hzj	
+/m/04dsnp	/m/02_286	/m/01q2nx	/m/015c4g	/m/027dtxw	/m/034hzj	
+/m/04dsnp	/m/02_286	/m/01t6b4	/m/023gxx	/m/017fp	/m/034hzj	
+1
+/m/04dsnp	/m/02_286	/m/05xpv	
+3
+/m/04dsnp	/m/02_286	/m/011yth	/m/01jr6	/m/01l4zqz	
+/m/04dsnp	/m/02_286	/m/0161sp	/m/0x67	/m/01l4zqz	
+/m/04dsnp	/m/02_286	/m/0478__m	/m/05pd94v	/m/01l4zqz	
+3
+/m/027dtxw	/m/0jqj5	/m/06cgy	/m/0b2v79	
+/m/027dtxw	/m/015c4g	/m/01q2nx	/m/05qd_	/m/0b2v79	
+/m/027dtxw	/m/0jqj5	/m/0gq9h	/m/0bzn6_	/m/05b2gsm	/m/0b2v79	
+1
+/m/027dtxw	/m/015c4g	/m/01q2nx	/m/02_286	/m/0738b8	
+3
+/m/027dtxw	/m/015c4g	/m/016sp_	/m/02cx90	/m/01l4zqz	
+/m/027dtxw	/m/034hzj	/m/0pmhf	/m/0x67	/m/01l4zqz	
+/m/027dtxw	/m/015c4g	/m/016sp_	/m/02cx90	/m/05pd94v	/m/01l4zqz	
+3
+/m/027dtxw	/m/06ltr	/m/02vxn	
+/m/027dtxw	/m/015c4g	/m/02x4wr9	/m/024lt6	/m/020h2v	/m/02vxn	
+/m/027dtxw	/m/015c4g	/m/02x4wr9	/m/0gmcwlb	/m/02z13jg	/m/02vxn	
+3
+/m/027dtxw	/m/0jqj5	/m/0gq9h	/m/0p9tm	
+/m/027dtxw	/m/01chpn	/m/0cj16	/m/0p9tm	
+/m/027dtxw	/m/015c4g	/m/01q2nx	/m/02kdv5l	/m/0p9tm	
+3
+/m/0pd64	/m/0cj16	/m/0crh5_f	/m/02_286	
+/m/0pd64	/m/064_8sq	/m/024lt6	/m/02_286	
+/m/0pd64	/m/064_8sq	/m/04fzfj	/m/02_286	
+0
+1
+/m/0pd64	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/03y82t6	/m/02bc74	
+3
+/m/0pd64	/m/0gq9h	/m/0hskw	/m/018gz8	/m/02mhfy	
+/m/0pd64	/m/022_lg	/m/01_d4	/m/01xv77	/m/03nqnnk	/m/02mhfy	
+/m/0pd64	/m/0gq9h	/m/0hskw	/m/018gz8	/m/029_3	/m/02mhfy	
+1
+/m/0pd64	/m/016tt2	/m/060c4	/m/06fq2	/m/0f4vx0	
+3
+/m/01f85k	/m/064_8sq	/m/0d060g	
+/m/01f85k	/m/0cj16	/m/08052t3	/m/0d060g	
+/m/01f85k	/m/0cj16	/m/01srq2	/m/0d060g	
+2
+/m/01f85k	/m/0cj16	/m/0crh5_f	/m/02_286	/m/03m8y5	
+/m/01f85k	/m/02vzc	/m/0jqp3	/m/0170vn	/m/02l6dy	/m/03m8y5	
+0
+0
+1
+/m/01f85k	/m/0cj16	/m/0p9tm	/m/0gq9h	/m/0gnjh	
+0
+0
+0
+0
+1
+/m/015q1n	/m/0f4vx0	/m/06fq2	/m/060c4	/m/02vzc	/m/017gl1	
+2
+/m/0m6x4	/m/083skw	/m/0gq9h	/m/0jsqk	
+/m/0m6x4	/m/083skw	/m/0gq9h	/m/05qd_	/m/0jsqk	
+0
+3
+/m/0m6x4	/m/044qx	/m/0gxfz	/m/064_8sq	/m/01hkhq	
+/m/0m6x4	/m/044qx	/m/0gxfz	/m/064_8sq	/m/02l4rh	/m/01hkhq	
+/m/0m6x4	/m/0gzy02	/m/02kdv5l	/m/05szq8z	/m/0h5g_	/m/01hkhq	
+0
+2
+/m/0m6x4	/m/044qx	/m/0gxfz	/m/027vps	/m/02_286	/m/0161sp	
+/m/0m6x4	/m/0gzy02	/m/02kdv5l	/m/04ydr95	/m/0pmhf	/m/0161sp	
+3
+/m/03k8th	/m/02kdv5l	/m/0dgrwqr	/m/02_286	
+/m/03k8th	/m/02kdv5l	/m/02x8fs	/m/02_286	
+/m/03k8th	/m/02kdv5l	/m/04fzfj	/m/02_286	
+3
+/m/03k8th	/m/02kdv5l	/m/04ydr95	/m/0pmhf	
+/m/03k8th	/m/02s2ft	/m/027dtxw	/m/034hzj	/m/0pmhf	
+/m/03k8th	/m/02kdv5l	/m/0dgrwqr	/m/02_286	/m/0161sp	/m/0pmhf	
+1
+/m/03k8th	/m/02kdv5l	/m/035s95	/m/016sp_	/m/02cx90	/m/0249kn	
+3
+/m/03k8th	/m/02kdv5l	/m/0dgrwqr	/m/02_286	/m/0crh5_f	
+/m/03k8th	/m/02kdv5l	/m/0dgrwqr	/m/02vzc	/m/0crh5_f	
+/m/03k8th	/m/02kdv5l	/m/0p9tm	/m/0cj16	/m/0crh5_f	
+2
+/m/03k8th	/m/02kdv5l	/m/0dgrwqr	/m/02_286	/m/0bv7t	
+/m/03k8th	/m/02kdv5l	/m/04ydr95	/m/0pmhf	/m/0x67	/m/0bv7t	
+0
+0
+0
+2
+/m/0jpn8	/m/01_d4	/m/0crh5_f	/m/02_286	/m/0dgrwqr	/m/0fpkxfd	
+/m/0jpn8	/m/01_d4	/m/0m491	/m/0d060g	/m/0g4pl7z	/m/0fpkxfd	
+3
+/m/0jpn8	/m/01_d4	/m/01xv77	/m/03nqnnk	
+/m/0jpn8	/m/01_d4	/m/023tp8	/m/03nqnnk	
+/m/0jpn8	/m/01_d4	/m/0cmt6q	/m/018gz8	/m/02mhfy	/m/03nqnnk	
+1
+/m/0hkxq	/m/05wvs	/m/07j87	/m/0h1yy	
+0
+0
+0
+0
+3
+/m/025sc50	/m/01wzlxj	/m/016z4k	/m/02h9_l	
+/m/025sc50	/m/0127s7	/m/01c99j	/m/02h9_l	
+/m/025sc50	/m/0127s7	/m/01c99j	/m/01vwbts	/m/01cszh	/m/02h9_l	
+1
+/m/025sc50	/m/0127s7	/m/02_286	/m/06cgy	/m/0234j5	
+1
+/m/025sc50	/m/0127s7	/m/02_286	/m/01vlj1g	/m/02nwxc	/m/02pg45	
+0
+2
+/m/025sc50	/m/0127s7	/m/02_286	/m/0dgrwqr	/m/0fpkxfd	
+/m/025sc50	/m/01wj18h	/m/06nm1	/m/064_8sq	/m/0g4pl7z	/m/0fpkxfd	
+1
+/m/0bv7t	/m/0x67	/m/03f3_p3	/m/017_pb	
+3
+/m/0bv7t	/m/02_286	/m/03mp8k	/m/01vwbts	/m/02f73p	
+/m/0bv7t	/m/02_286	/m/03mp8k	/m/046p9	/m/02f73p	
+/m/0bv7t	/m/02_286	/m/0478__m	/m/0kr_t	/m/02f73p	
+0
+1
+/m/0bv7t	/m/02_286	/m/0dgrwqr	/m/02kdv5l	/m/0b7l4x	
+2
+/m/0bv7t	/m/02_286	/m/0dgrwqr	/m/02kdv5l	/m/03k8th	
+/m/0bv7t	/m/02_286	/m/04fzk	/m/015pkc	/m/02s2ft	/m/03k8th	
+1
+/m/041rx	/m/03f0324	/m/073v6	/m/058vp	
+1
+/m/041rx	/m/01nvmd_	/m/0gvsh7l	/m/0cqh6z	/m/09f0bj	/m/06s6hs	
+1
+/m/041rx	/m/08hp53	/m/016tt2	/m/060c4	/m/01ljpm	
+1
+/m/041rx	/m/0c921	/m/0gq9h	/m/04b2qn	/m/022q4l9	/m/064nh4k	
+3
+/m/041rx	/m/0175wg	/m/020bv3	/m/0d060g	/m/0gdh5	
+/m/041rx	/m/06449	/m/02_286	/m/0478__m	/m/01c99j	/m/0gdh5	
+/m/041rx	/m/023tp8	/m/03nqnnk	/m/0dn3n	/m/014_x2	/m/0gdh5	
+3
+/m/0pd64	/m/0gq9h	
+/m/0pd64	/m/016tt2	/m/0gq9h	
+/m/0pd64	/m/0cj16	/m/0p9tm	/m/0gq9h	
+3
+/m/0pd64	/m/064_8sq	/m/024lt6	/m/020h2v	
+/m/0pd64	/m/064_8sq	/m/0pc62	/m/020h2v	
+/m/0pd64	/m/064_8sq	/m/0d060g	/m/0jjy0	/m/020h2v	
+3
+/m/0pd64	/m/0gq9h	/m/03xp8d5	
+/m/0pd64	/m/016tt2	/m/08hp53	/m/041rx	/m/03xp8d5	
+/m/0pd64	/m/0gq9h	/m/0hskw	/m/018gz8	/m/01jgpsh	/m/03xp8d5	
+3
+/m/0pd64	/m/0cj16	/m/0crh5_f	/m/02_286	/m/0161sp	
+/m/0pd64	/m/0rh6k	/m/059_gf	/m/03shpq	/m/0pmhf	/m/0161sp	
+/m/0pd64	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/016z4k	/m/0161sp	
+3
+/m/0pd64	/m/016tt2	/m/055td_	/m/05p5nc	
+/m/0pd64	/m/064_8sq	/m/020bv3	/m/01t_vv	/m/01g03q	/m/05p5nc	
+/m/0pd64	/m/064_8sq	/m/04fzfj	/m/01vlj1g	/m/02nwxc	/m/05p5nc	
+3
+/m/0175wg	/m/020bv3	
+/m/0175wg	/m/0h5g_	/m/020bv3	
+/m/0175wg	/m/01qrbf	/m/020bv3	
+0
+2
+/m/0175wg	/m/041rx	/m/06449	/m/02_286	/m/03f0fnk	
+/m/0175wg	/m/020bv3	/m/0d060g	/m/0274ck	/m/016z4k	/m/03f0fnk	
+1
+/m/0175wg	/m/041rx	/m/06449	/m/02_286	/m/03m2fg	
+0
+1
+/m/047n8xt	/m/02r6c_	
+2
+/m/047n8xt	/m/02z2xdf	/m/0gq9h	/m/05qd_	/m/05zlld0	/m/05sb1	
+/m/047n8xt	/m/0cj16	/m/08052t3	/m/02vzc	/m/060bp	/m/05sb1	
+0
+0
+0
+3
+/m/08052t3	/m/0cj16	/m/0p9tm	/m/02kdv5l	
+/m/08052t3	/m/016tt2	/m/076zy_g	/m/02kdv5l	
+/m/08052t3	/m/016tt2	/m/01hw5kk	/m/02kdv5l	
+3
+/m/08052t3	/m/0d060g	/m/0274ck	/m/016z4k	/m/01vv7sc	/m/02f73p	
+/m/08052t3	/m/0d060g	/m/0274ck	/m/016z4k	/m/0pkyh	/m/02f73p	
+/m/08052t3	/m/0d060g	/m/0gdh5	/m/01c99j	/m/01vwbts	/m/02f73p	
+3
+/m/08052t3	/m/0d060g	/m/064_8sq	
+/m/08052t3	/m/06mzp	/m/064_8sq	
+/m/08052t3	/m/0cj16	/m/0pd64	/m/064_8sq	
+2
+/m/08052t3	/m/02vzc	/m/0fphf3v	/m/06cgy	/m/0234j5	
+/m/08052t3	/m/02vzc	/m/0jqp3	/m/01yd8v	/m/0234j5	
+1
+/m/08052t3	/m/0cj16	/m/07yk1xz	/m/017fp	/m/0294mx	
+2
+/m/01ws9n6	/m/01wlt3k	
+/m/01ws9n6	/m/01wgxtl	/m/01wlt3k	
+0
+3
+/m/01ws9n6	/m/016z4k	/m/02cx90	
+/m/01ws9n6	/m/0x67	/m/01l4zqz	/m/02cx90	
+/m/01ws9n6	/m/016z4k	/m/0pkyh	/m/02cx90	
+3
+/m/01ws9n6	/m/0x67	/m/01l1b90	/m/05zlld0	/m/05qd_	/m/0gvs1kt	
+/m/01ws9n6	/m/0x67	/m/0c35b1	/m/03shpq	/m/059_gf	/m/0gvs1kt	
+/m/01ws9n6	/m/0x67	/m/04pp9s	/m/05sy_5	/m/0gq9h	/m/0gvs1kt	
+3
+/m/01ws9n6	/m/0x67	/m/0770cd	/m/01s0ps	/m/07gql	
+/m/01ws9n6	/m/0x67	/m/01l4zqz	/m/03xgm3	/m/07gql	
+/m/01ws9n6	/m/0x67	/m/024zq	/m/02fsn	/m/0dwt5	/m/07gql	
+2
+/m/0pqc5	/m/01_d4	/m/04htfd	/m/0dq3c	/m/03y7ml	/m/07bcn	
+/m/0pqc5	/m/0tl6d	/m/0bt7ws	/m/08wq0g	/m/02zcnq	/m/07bcn	
+3
+/m/0pqc5	/m/02_286	/m/0dgrwqr	
+/m/0pqc5	/m/0fr0t	/m/0jqp3	/m/02vzc	/m/0dgrwqr	
+/m/0pqc5	/m/02_286	/m/01sby_	/m/02kdv5l	/m/0dgrwqr	
+2
+/m/0pqc5	/m/01_d4	/m/0m491	/m/05qd_	/m/0jsqk	
+/m/0pqc5	/m/02_286	/m/09ftwr	/m/0gq9h	/m/0jsqk	
+2
+/m/0pqc5	/m/0154fs	/m/0d060g	/m/0gdh5	
+/m/0pqc5	/m/02_286	/m/0478__m	/m/01c99j	/m/0gdh5	
+3
+/m/0pqc5	/m/02_286	/m/0161sp	
+/m/0pqc5	/m/01jr6	/m/01l4zqz	/m/0x67	/m/0161sp	
+/m/0pqc5	/m/02_286	/m/01bpc9	/m/016z4k	/m/0161sp	
+3
+/m/0gdh5	/m/0d060g	/m/0274ck	/m/016z4k	
+/m/0gdh5	/m/01c99j	/m/03y82t6	/m/016z4k	
+/m/0gdh5	/m/01c99j	/m/02h9_l	/m/016z4k	
+3
+/m/0gdh5	/m/0d060g	/m/0274ck	/m/016z4k	/m/01wzlxj	/m/02x8m	
+/m/0gdh5	/m/0d060g	/m/0274ck	/m/016z4k	/m/01wk7ql	/m/02x8m	
+/m/0gdh5	/m/01c99j	/m/01vwbts	/m/03mp8k	/m/046p9	/m/02x8m	
+3
+/m/0gdh5	/m/0d060g	/m/064_8sq	/m/04fzfj	
+/m/0gdh5	/m/0d060g	/m/01hlwv	/m/02_286	/m/04fzfj	
+/m/0gdh5	/m/0d060g	/m/0m491	/m/01vlj1g	/m/04fzfj	
+3
+/m/0gdh5	/m/0d060g	/m/0lbbj	
+/m/0gdh5	/m/0d060g	/m/0l6ny	/m/03hr1p	/m/0lbbj	
+/m/0gdh5	/m/0d060g	/m/0l6ny	/m/02vzc	/m/0lbbj	
+2
+/m/0gdh5	/m/01c99j	/m/0478__m	/m/05pd94v	/m/016srn	
+/m/0gdh5	/m/0d060g	/m/0274ck	/m/016z4k	/m/02cx90	/m/016srn	
+3
+/m/01qb5d	/m/016tt2	
+/m/01qb5d	/m/0d060g	/m/08052t3	/m/016tt2	
+/m/01qb5d	/m/0d060g	/m/064_8sq	/m/01jc6q	/m/016tt2	
+0
+3
+/m/01qb5d	/m/0d060g	/m/060bp	/m/03676	
+/m/01qb5d	/m/016tt2	/m/060c4	/m/03676	
+/m/01qb5d	/m/0d060g	/m/0lbbj	/m/03_8r	/m/03676	
+2
+/m/01qb5d	/m/016tt2	/m/01pvxl	/m/0dn3n	
+/m/01qb5d	/m/0d060g	/m/0gdh5	/m/014_x2	/m/0dn3n	
+2
+/m/01qb5d	/m/0d060g	/m/0gdh5	
+/m/01qb5d	/m/016tt2	/m/01pvxl	/m/0dn3n	/m/014_x2	/m/0gdh5	
+0
+0
+1
+/m/032q8q	/m/080knyg	/m/022q4l9	/m/0d060g	/m/0gdh5	/m/01c99j	
+0
+3
+/m/032q8q	/m/080knyg	/m/05ztm4r	
+/m/032q8q	/m/064nh4k	/m/05ztm4r	
+/m/032q8q	/m/080knyg	/m/022q4l9	/m/05ztm4r	
+2
+/m/02l6dy	/m/01wy5m	
+/m/02l6dy	/m/0170vn	/m/01wy5m	
+2
+/m/02l6dy	/m/03m8y5	/m/02_286	/m/014x77	/m/041rx	/m/03xp8d5	
+/m/02l6dy	/m/03m8y5	/m/02_286	/m/09ftwr	/m/0gq9h	/m/03xp8d5	
+2
+/m/02l6dy	/m/03m8y5	/m/02_286	/m/09ftwr	/m/0gq9h	/m/0p_qr	
+/m/02l6dy	/m/01wy5m	/m/027dtxw	/m/0jqj5	/m/0bzlrh	/m/0p_qr	
+0
+0
+3
+/m/03548	/m/064_8sq	
+/m/03548	/m/060c4	/m/05cc1	/m/064_8sq	
+/m/03548	/m/060c4	/m/06dfg	/m/064_8sq	
+1
+/m/03548	/m/064_8sq	/m/0d060g	/m/0m491	/m/01_d4	/m/0jnlm	
+3
+/m/03548	/m/064_8sq	/m/024lt6	/m/02_286	/m/0478__m	
+/m/03548	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/025sc50	/m/0478__m	
+/m/03548	/m/064_8sq	/m/06nm1	/m/01wj18h	/m/03y82t6	/m/0478__m	
+3
+/m/03548	/m/064_8sq	/m/0d060g	/m/07s3m4g	
+/m/03548	/m/064_8sq	/m/06mzp	/m/07s3m4g	
+/m/03548	/m/064_8sq	/m/0ckrnn	/m/05qd_	/m/07s3m4g	
+1
+/m/03548	/m/060c4	/m/06fq2	/m/0f4vx0	
+1
+/m/01718w	/m/0417z2	
+3
+/m/01718w	/m/0pmhf	/m/0x67	/m/01l4zqz	/m/05pd94v	
+/m/01718w	/m/015v3r	/m/02_286	/m/0478__m	/m/05pd94v	
+/m/01718w	/m/015v3r	/m/02_286	/m/01bpc9	/m/05pd94v	
+3
+/m/01718w	/m/0pmhf	/m/023gxx	/m/06mzp	/m/064_8sq	
+/m/01718w	/m/0pmhf	/m/05vsxz	/m/020bv3	/m/064_8sq	
+/m/01718w	/m/015v3r	/m/02_286	/m/04fzfj	/m/064_8sq	
+0
+1
+/m/01718w	/m/015v3r	/m/02_286	/m/0pqc5	/m/0100mt	
+3
+/m/0gvs1kt	/m/05qd_	/m/016tt2	/m/060c4	/m/04v3q	
+/m/0gvs1kt	/m/05qd_	/m/05zlld0	/m/05sb1	/m/060bp	/m/04v3q	
+/m/0gvs1kt	/m/05qd_	/m/0b2v79	/m/06cgy	/m/0fphf3v	/m/04v3q	
+1
+/m/0gvs1kt	/m/05qd_	/m/01q2nx	/m/02_286	/m/03qjlz	
+2
+/m/0gvs1kt	/m/05qd_	/m/0b2v79	/m/06cgy	/m/0992d9	
+/m/0gvs1kt	/m/05qd_	/m/01q2nx	/m/02_286	/m/0992d9	
+1
+/m/0gvs1kt	/m/0gq9h	/m/0hskw	/m/018gz8	/m/0glmv	
+2
+/m/0gvs1kt	/m/05qd_	/m/0ckrnn	/m/064_8sq	/m/03548	
+/m/0gvs1kt	/m/05qd_	/m/016tt2	/m/060c4	/m/03548	
+1
+/m/01s0ps	/m/0l1589	
+0
+0
+1
+/m/01s0ps	/m/01nn3m	/m/016z4k	/m/0274ck	/m/0d060g	/m/01qb5d	
+0
+3
+/m/022q4l9	/m/064nh4k	
+/m/022q4l9	/m/080knyg	/m/064nh4k	
+/m/022q4l9	/m/05ztm4r	/m/064nh4k	
+2
+/m/022q4l9	/m/0d060g	/m/01hlwv	/m/02_286	/m/0992d9	
+/m/022q4l9	/m/0d060g	/m/064_8sq	/m/0jqj5	/m/06cgy	/m/0992d9	
+1
+/m/022q4l9	/m/0d060g	/m/064_8sq	/m/06mzp	/m/0lfyd	
+3
+/m/022q4l9	/m/0d060g	/m/0lbbj	
+/m/022q4l9	/m/0d060g	/m/0l6ny	/m/03hr1p	/m/0lbbj	
+/m/022q4l9	/m/0d060g	/m/0l6ny	/m/02vzc	/m/0lbbj	
+2
+/m/022q4l9	/m/04b2qn	/m/0gq9h	/m/083skw	
+/m/022q4l9	/m/04b2qn	/m/0gq9h	/m/0gzy02	/m/0m6x4	/m/083skw	
+3
+/m/0161sp	/m/0pmhf	
+/m/0161sp	/m/0x67	/m/0pmhf	
+/m/0161sp	/m/02_286	/m/0170vn	/m/09pnw5	/m/0pmhf	
+3
+/m/0161sp	/m/02_286	/m/016z43	/m/01t_vv	
+/m/0161sp	/m/0pmhf	/m/05vsxz	/m/020bv3	/m/01t_vv	
+/m/0161sp	/m/02_286	/m/01_f_5	/m/0209xj	/m/01t_vv	
+3
+/m/0161sp	/m/02_286	/m/01lct6	/m/01mh_q	
+/m/0161sp	/m/016z4k	/m/01wj18h	/m/02w7fs	/m/01mh_q	
+/m/0161sp	/m/02_286	/m/0478__m	/m/05pd94v	/m/02hgm4	/m/01mh_q	
+2
+/m/0161sp	/m/0x67	/m/01wgxtl	/m/01wlt3k	
+/m/0161sp	/m/0x67	/m/01ws9n6	/m/01wlt3k	
+1
+/m/0161sp	/m/02_286	/m/0pqc5	/m/0100mt	/m/03ft8	
+2
+/m/0gq_d	/m/0fzrhn	/m/0gq9h	/m/0bzn6_	
+/m/0gq_d	/m/05qd_	/m/0b2v79	/m/05b2gsm	/m/0bzn6_	
+3
+/m/0gq_d	/m/016tt2	
+/m/0gq_d	/m/05qd_	/m/016tt2	
+/m/0gq_d	/m/0fzrhn	/m/0gq9h	/m/016tt2	
+2
+/m/0gq_d	/m/0bzk2h	/m/06cgy	/m/02_286	/m/0127s7	
+/m/0gq_d	/m/016tt2	/m/01pvxl	/m/04fzk	/m/015pkc	/m/0127s7	
+3
+/m/0gq_d	/m/05qd_	/m/03shpq	/m/0pmhf	/m/05vsxz	
+/m/0gq_d	/m/05qb8vx	/m/02rn00y	/m/06nm1	/m/0963mq	/m/05vsxz	
+/m/0gq_d	/m/05qd_	/m/0ckrnn	/m/064_8sq	/m/020bv3	/m/05vsxz	
+0
+3
+/m/06cgy	/m/0jqj5	
+/m/06cgy	/m/0bzk2h	/m/0gq9h	/m/0jqj5	
+/m/06cgy	/m/02_286	/m/04fzfj	/m/064_8sq	/m/0jqj5	
+3
+/m/06cgy	/m/02_286	/m/0161sp	/m/0pmhf	/m/05vsxz	
+/m/06cgy	/m/02_286	/m/02tk74	/m/0h5g_	/m/05vsxz	
+/m/06cgy	/m/0jqj5	/m/064_8sq	/m/020bv3	/m/05vsxz	
+3
+/m/06cgy	/m/0bzk2h	/m/0gq9h	/m/016tt2	/m/0pb33	
+/m/06cgy	/m/0bzk2h	/m/0gq9h	/m/02qjpv5	/m/0pb33	
+/m/06cgy	/m/02_286	/m/015v3r	/m/01718w	/m/0417z2	/m/0pb33	
+3
+/m/06cgy	/m/02_286	/m/0161sp	
+/m/06cgy	/m/01900g	/m/0x67	/m/0161sp	
+/m/06cgy	/m/02_286	/m/01bpc9	/m/016z4k	/m/0161sp	
+0
+2
+/m/05p5nc	/m/0cqh6z	
+/m/05p5nc	/m/01g03q	/m/0cqh6z	
+0
+0
+0
+2
+/m/05p5nc	/m/0cqh6z	/m/09f0bj	/m/0x67	/m/01ws9n6	
+/m/05p5nc	/m/0cqh6z	/m/09f0bj	/m/0x67	/m/01wgxtl	/m/01ws9n6	
+3
+/m/01m15br	/m/02cx90	
+/m/01m15br	/m/05pd94v	/m/02cx90	
+/m/01m15br	/m/054nbl	/m/02cx90	
+3
+/m/01m15br	/m/05pd94v	/m/01bpc9	/m/02_286	/m/01t6b4	/m/0pc62	
+/m/01m15br	/m/02cx90	/m/016sp_	/m/035s95	/m/02kdv5l	/m/0pc62	
+/m/01m15br	/m/01l4zqz	/m/01jr6	/m/011yth	/m/020h2v	/m/0pc62	
+2
+/m/01m15br	/m/02cx90	/m/016sp_	/m/035s95	/m/0h5g_	/m/01hkhq	
+/m/01m15br	/m/016z4k	/m/01wj18h	/m/06nm1	/m/064_8sq	/m/01hkhq	
+3
+/m/01m15br	/m/02cx90	/m/016sp_	/m/015c4g	/m/027dtxw	
+/m/01m15br	/m/02cx90	/m/016sp_	/m/035s95	/m/015wnl	/m/027dtxw	
+/m/01m15br	/m/01l4zqz	/m/0x67	/m/0pmhf	/m/034hzj	/m/027dtxw	
+2
+/m/01m15br	/m/05pd94v	/m/01bpc9	/m/02_286	/m/03m8y5	/m/02l6dy	
+/m/01m15br	/m/05pd94v	/m/01bpc9	/m/02_286	/m/0170vn	/m/02l6dy	
+3
+/m/0c12h	/m/02x4wr9	/m/015c4g	/m/027dtxw	
+/m/0c12h	/m/0gq9h	/m/0jqj5	/m/027dtxw	
+/m/0c12h	/m/0gq9h	/m/016tt2	/m/055td_	/m/027dtxw	
+1
+/m/0c12h	/m/0gq9h	/m/05sy_5	/m/0337vz	/m/0x67	/m/09f0bj	
+1
+/m/0c12h	/m/0gq9h	/m/016tt2	/m/060c4	/m/0178g	
+1
+/m/0c12h	/m/02x4wr9	/m/024lt6	/m/02_286	/m/0478__m	
+3
+/m/0c12h	/m/02x4wr9	/m/015c4g	/m/01q2nx	
+/m/0c12h	/m/0gq9h	/m/05qd_	/m/01q2nx	
+/m/0c12h	/m/02x4wr9	/m/024lt6	/m/02_286	/m/01q2nx	
+1
+/m/04mby	/m/0d8qb	/m/05sj55	/m/02_286	/m/0bv7t	/m/071cn	
+0
+0
+1
+/m/04mby	/m/0d8qb	/m/05sj55	/m/02_286	/m/03mp8k	/m/01vxlbm	
+2
+/m/04mby	/m/02q52q	/m/0gq9h	/m/0gvs1kt	
+/m/04mby	/m/02q52q	/m/0gq9h	/m/05qd_	/m/0gvs1kt	
+3
+/m/017gl1	/m/02vzc	/m/0lbbj	/m/06mzp	
+/m/017gl1	/m/02vzc	/m/01dys	/m/06mzp	
+/m/017gl1	/m/02vzc	/m/03hr1p	/m/06mzp	
+3
+/m/017gl1	/m/02vzc	/m/01sby_	/m/02_286	/m/0127s7	
+/m/017gl1	/m/0d060g	/m/0gdh5	/m/01c99j	/m/0127s7	
+/m/017gl1	/m/0d060g	/m/06nm1	/m/01wj18h	/m/025sc50	/m/0127s7	
+1
+/m/017gl1	/m/02vzc	/m/0bdjd	/m/01f7j9	/m/02yxjs	/m/05jxkf	
+2
+/m/017gl1	/m/02vzc	/m/023gxx	/m/017fp	/m/02chhq	
+/m/017gl1	/m/02vzc	/m/0ggbfwf	/m/02l4rh	/m/06j8wx	/m/02chhq	
+0
+3
+/m/015pkc	/m/02s2ft	
+/m/015pkc	/m/0127s7	/m/01c99j	/m/03y82t6	/m/0ds5_72	/m/02s2ft	
+/m/015pkc	/m/04fzk	/m/02y_rq5	/m/0btxr	/m/09p4w8	/m/02s2ft	
+1
+/m/015pkc	/m/0127s7	/m/025sc50	/m/01wj18h	/m/02681_5	
+3
+/m/015pkc	/m/022q32	/m/01jr6	/m/01l4zqz	/m/011zf2	
+/m/015pkc	/m/022q32	/m/01jr6	/m/01l4zqz	/m/01m15br	/m/011zf2	
+/m/015pkc	/m/022q32	/m/01jr6	/m/01l4zqz	/m/03xgm3	/m/011zf2	
+3
+/m/015pkc	/m/0127s7	/m/01c99j	/m/0478__m	
+/m/015pkc	/m/0127s7	/m/025sc50	/m/0478__m	
+/m/015pkc	/m/0127s7	/m/02_286	/m/0478__m	
+0
+3
+/m/02_3zj	/m/0524b41	
+/m/02_3zj	/m/0lp_cd3	/m/0524b41	
+/m/02_3zj	/m/0gcf2r	/m/07kjk7c	/m/08y2fn	/m/06j8wx	/m/0524b41	
+2
+/m/02_3zj	/m/0lp_cd3	/m/0gvsh7l	/m/01nvmd_	/m/041rx	/m/08hp53	
+/m/02_3zj	/m/0cs134	/m/01t_vv	/m/016z43	/m/02_286	/m/08hp53	
+0
+1
+/m/02_3zj	/m/0lp_cd3	/m/0gvsh7l	/m/01nvmd_	/m/01_d4	/m/0jpn8	
+0
+1
+/m/02bf58	/m/01_d4	
+1
+/m/02bf58	/m/01_d4	/m/0crh5_f	/m/02vzc	/m/03_8r	/m/05b7q	
+0
+0
+3
+/m/02bf58	/m/01_d4	/m/0b2v79	
+/m/02bf58	/m/01_d4	/m/0m491	/m/05qd_	/m/0b2v79	
+/m/02bf58	/m/01_d4	/m/0crh5_f	/m/02_286	/m/06cgy	/m/0b2v79	
+3
+/m/032q8q	/m/080knyg	
+/m/032q8q	/m/064nh4k	/m/080knyg	
+/m/032q8q	/m/064nh4k	/m/022q4l9	/m/080knyg	
+1
+/m/032q8q	/m/080knyg	/m/022q4l9	/m/0d060g	/m/0l6ny	
+0
+0
+0
+0
+0
+0
+0
+0
+1
+/m/02y_rq5	/m/01hkhq	/m/047myg9	/m/017fp	/m/0294mx	
+0
+2
+/m/02y_rq5	/m/04fzk	/m/02_286	/m/03mp8k	/m/01vwbts	
+/m/02y_rq5	/m/04fzk	/m/02_286	/m/0478__m	/m/01c99j	/m/01vwbts	
+3
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/024lt6	/m/02x4wr9	
+/m/02y_rq5	/m/0ct5zc	/m/02vzc	/m/0gmcwlb	/m/02x4wr9	
+/m/02y_rq5	/m/03c_cxn	/m/02rdxsh	/m/0209xj	/m/02x4wr9	
+1
+/m/02y_rq5	/m/04fzk	/m/02_286	/m/03mp8k	/m/046p9	/m/07gql	
+3
+/m/01jgpsh	/m/018gz8	/m/02mhfy	/m/03nqnnk	
+/m/01jgpsh	/m/03xp8d5	/m/041rx	/m/023tp8	/m/03nqnnk	
+/m/01jgpsh	/m/018gz8	/m/01ccr8	/m/01pvxl	/m/0dn3n	/m/03nqnnk	
+3
+/m/01jgpsh	/m/018gz8	/m/01wj9y9	/m/02_286	/m/04fzk	/m/015pkc	
+/m/01jgpsh	/m/018gz8	/m/01wj9y9	/m/02_286	/m/0127s7	/m/015pkc	
+/m/01jgpsh	/m/018gz8	/m/06ltr	/m/027dtxw	/m/02s2ft	/m/015pkc	
+0
+2
+/m/01jgpsh	/m/018gz8	/m/06ltr	/m/027dtxw	/m/02s2ft	/m/03k8th	
+/m/01jgpsh	/m/03xp8d5	/m/0gq9h	/m/04v8x9	/m/02kdv5l	/m/03k8th	
+1
+/m/01jgpsh	/m/03xp8d5	/m/0gq9h	/m/02z2xdf	/m/047n8xt	/m/02r6c_	
+3
+/m/04fzfj	/m/08hp53	
+/m/04fzfj	/m/02_286	/m/08hp53	
+/m/04fzfj	/m/01vlj1g	/m/041rx	/m/08hp53	
+1
+/m/04fzfj	/m/02_286	/m/01wj9y9	/m/0dq9p	/m/01vn0t_	/m/0k_kr	
+1
+/m/04fzfj	/m/02_286	/m/0crh5_f	/m/01_d4	/m/0jnlm	
+2
+/m/04fzfj	/m/02_286	/m/03mp8k	/m/01wbsdz	/m/01smm	
+/m/04fzfj	/m/02kdv5l	/m/035s95	/m/016sp_	/m/01smm	
+3
+/m/04fzfj	/m/08hp53	/m/016tt2	/m/0pb33	
+/m/04fzfj	/m/02kdv5l	/m/05szq8z	/m/0d2b38	/m/0pb33	
+/m/04fzfj	/m/08hp53	/m/016tt2	/m/0gq9h	/m/02qjpv5	/m/0pb33	
+0
+1
+/m/01_d4	/m/0crh5_f	/m/02_286	/m/0161sp	/m/016z4k	/m/0411q	
+3
+/m/01_d4	/m/0crh5_f	/m/02vzc	/m/060c4	/m/0kz2w	/m/083jv	
+/m/01_d4	/m/0crh5_f	/m/02vzc	/m/060c4	/m/0175rc	/m/083jv	
+/m/01_d4	/m/022_lg	/m/0pd64	/m/0rh6k	/m/03lpp_	/m/083jv	
+2
+/m/01_d4	/m/0m491	/m/0d060g	/m/01qb5d	
+/m/01_d4	/m/0m491	/m/05qd_	/m/016tt2	/m/01qb5d	
+0
+3
+/m/020bv3	/m/0d060g	/m/0g4pl7z	/m/03sb38	
+/m/020bv3	/m/027dtxw	/m/06ltr	/m/02vxn	/m/03sb38	
+/m/020bv3	/m/0d060g	/m/028d4v	/m/01pcbg	/m/0pdp8	/m/03sb38	
+3
+/m/020bv3	/m/0d060g	/m/0m491	/m/01_d4	
+/m/020bv3	/m/0d060g	/m/0154fs	/m/0pqc5	/m/01_d4	
+/m/020bv3	/m/064_8sq	/m/0pd64	/m/022_lg	/m/01_d4	
+3
+/m/020bv3	/m/0d060g	/m/0l6ny	/m/02vzc	
+/m/020bv3	/m/0d060g	/m/06k75	/m/02vzc	
+/m/020bv3	/m/0d060g	/m/05b5c	/m/02vzc	
+1
+/m/020bv3	/m/01t_vv	/m/01g03q	/m/02nwxc	/m/02pg45	
+3
+/m/020bv3	/m/0d060g	/m/0gdh5	/m/01c99j	
+/m/020bv3	/m/0d060g	/m/06nm1	/m/01wj18h	/m/03y82t6	/m/01c99j	
+/m/020bv3	/m/0d060g	/m/01hlwv	/m/02_286	/m/0478__m	/m/01c99j	
+3
+/m/02z0f6l	/m/017fp	
+/m/02z0f6l	/m/0cj16	/m/07yk1xz	/m/017fp	
+/m/02z0f6l	/m/0cj16	/m/047n8xt	/m/017fp	
+0
+1
+/m/02z0f6l	/m/0cj16	/m/08052t3	/m/06mzp	/m/0lfyd	
+0
+3
+/m/02z0f6l	/m/0cj16	/m/08052t3	/m/02vzc	/m/03hr1p	
+/m/02z0f6l	/m/0cj16	/m/08052t3	/m/06mzp	/m/03hr1p	
+/m/02z0f6l	/m/0cj16	/m/08052t3	/m/02vzc	/m/0l6ny	/m/03hr1p	
+1
+/m/04nw9	/m/018gz8	/m/0hskw	/m/0gq9h	/m/0gnjh	
+3
+/m/04nw9	/m/018gz8	/m/028d4v	/m/0d060g	/m/064_8sq	/m/06mzp	
+/m/04nw9	/m/018gz8	/m/028d4v	/m/0d060g	/m/0lbbj	/m/06mzp	
+/m/04nw9	/m/018gz8	/m/028d4v	/m/0d060g	/m/01dys	/m/06mzp	
+0
+0
+0
+1
+/m/03ft8	/m/0100mt	
+0
+0
+0
+2
+/m/03ft8	/m/0100mt	/m/0pqc5	/m/02_286	/m/04dsnp	
+/m/03ft8	/m/0100mt	/m/0pqc5	/m/02_286	/m/0jw67	/m/04dsnp	
+1
+/m/02qny_	/m/0175rc	
+1
+/m/02qny_	/m/0175rc	/m/060c4	/m/016tt2	/m/05qd_	/m/07s3m4g	
+0
+0
+0
+3
+/m/024lt6	/m/02vzc	/m/02j9z	/m/04v3q	
+/m/024lt6	/m/02vzc	/m/060c4	/m/04v3q	
+/m/024lt6	/m/02vzc	/m/060bp	/m/04v3q	
+3
+/m/024lt6	/m/02_286	/m/0jw67	
+/m/024lt6	/m/06nm1	/m/04dsnp	/m/0jw67	
+/m/024lt6	/m/064_8sq	/m/0d060g	/m/012jfb	/m/0jw67	
+3
+/m/024lt6	/m/02x4wr9	/m/0c12h	/m/0fzrhn	/m/0gq_d	
+/m/024lt6	/m/064_8sq	/m/01jc6q	/m/016tt2	/m/0gq_d	
+/m/024lt6	/m/064_8sq	/m/0ckrnn	/m/05qd_	/m/0gq_d	
+3
+/m/024lt6	/m/06nm1	/m/01wj18h	/m/016z4k	/m/01m15br	
+/m/024lt6	/m/02_286	/m/0478__m	/m/05pd94v	/m/01m15br	
+/m/024lt6	/m/02x4wr9	/m/015c4g	/m/016sp_	/m/02cx90	/m/01m15br	
+2
+/m/024lt6	/m/02vzc	/m/060c4	/m/0175rc	
+/m/024lt6	/m/02vzc	/m/060c4	/m/0kz2w	/m/083jv	/m/0175rc	
+3
+/m/0jkvj	/m/03hr1p	
+/m/0jkvj	/m/06mzp	/m/03hr1p	
+/m/0jkvj	/m/03_8r	/m/0lbbj	/m/03hr1p	
+1
+/m/0jkvj	/m/03hr1p	/m/02vzc	/m/01sby_	/m/02_286	/m/0126y2	
+1
+/m/0jkvj	/m/06mzp	/m/064_8sq	/m/0pc62	/m/0d608	
+0
+2
+/m/0jkvj	/m/03hr1p	/m/02vzc	/m/0dgrwqr	/m/0fpkxfd	
+/m/0jkvj	/m/06mzp	/m/064_8sq	/m/0g4pl7z	/m/0fpkxfd	
+0
+0
+0
+3
+/m/012gk9	/m/05qd_	/m/0gq9h	
+/m/012gk9	/m/05qd_	/m/0jsqk	/m/0gq9h	
+/m/012gk9	/m/05qd_	/m/0gvs1kt	/m/0gq9h	
+2
+/m/012gk9	/m/05qd_	/m/0df2zx	/m/09q17	/m/0372j5	
+/m/012gk9	/m/05qd_	/m/0m491	/m/02vzc	/m/0372j5	
+3
+/m/02cg7g	/m/02bqmq	/m/02glc4	
+/m/02cg7g	/m/02bqmq	/m/02bqn1	/m/02glc4	
+/m/02cg7g	/m/02bqmq	/m/060ny2	/m/02glc4	
+0
+0
+0
+0
+1
+/m/0f6zs	/m/0ybkj	
+0
+0
+0
+0
+3
+/m/07gql	/m/03xgm3	
+/m/07gql	/m/0dwt5	/m/07_l6	/m/02cx90	/m/03xgm3	
+/m/07gql	/m/0dwt5	/m/07_l6	/m/02cx90	/m/05pd94v	/m/03xgm3	
+1
+/m/07gql	/m/046p9	/m/03mp8k	/m/01wj18h	/m/02681xs	/m/092868	
+3
+/m/07gql	/m/03xgm3	/m/05pd94v	/m/02w7fs	/m/01mh_q	
+/m/07gql	/m/03xgm3	/m/05pd94v	/m/02hgm4	/m/01mh_q	
+/m/07gql	/m/046p9	/m/03mp8k	/m/02_286	/m/01lct6	/m/01mh_q	
+3
+/m/07gql	/m/046p9	/m/03mp8k	/m/02_286	/m/04dsnp	
+/m/07gql	/m/046p9	/m/03mp8k	/m/02_286	/m/0jw67	/m/04dsnp	
+/m/07gql	/m/046p9	/m/03mp8k	/m/01wj18h	/m/06nm1	/m/04dsnp	
+3
+/m/07gql	/m/046p9	/m/03mp8k	/m/02_286	/m/0161sp	
+/m/07gql	/m/03xgm3	/m/01l4zqz	/m/0x67	/m/0161sp	
+/m/07gql	/m/03xgm3	/m/01m15br	/m/016z4k	/m/0161sp	
+3
+/m/041rx	/m/03f0324	/m/073v6	
+/m/041rx	/m/0175wg	/m/020bv3	/m/0d060g	/m/073v6	
+/m/041rx	/m/0ff3y	/m/084w8	/m/040_9	/m/073v6	
+1
+/m/041rx	/m/06449	/m/02_286	/m/03m2fg	
+3
+/m/041rx	/m/0c921	/m/0gq9h	/m/083skw	/m/0m6x4	
+/m/041rx	/m/0c921	/m/0gq9h	/m/0gzy02	/m/0m6x4	
+/m/041rx	/m/0c921	/m/0gq9h	/m/0gxfz	/m/044qx	/m/0m6x4	
+0
+3
+/m/041rx	/m/06449	/m/02_286	/m/0170vn	/m/01wy5m	
+/m/041rx	/m/0175wg	/m/020bv3	/m/027dtxw	/m/01wy5m	
+/m/041rx	/m/06449	/m/02_286	/m/03m8y5	/m/02l6dy	/m/01wy5m	
+3
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/01hlwv	/m/02_286	
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/01sby_	/m/02_286	
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/064_8sq	/m/024lt6	/m/02_286	
+2
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/0274ck	/m/016z4k	
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/06nm1	/m/01wj18h	/m/016z4k	
+3
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/020bv3	/m/0175wg	/m/041rx	
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/073v6	/m/03f0324	/m/041rx	
+/m/05ztm4r	/m/022q4l9	/m/0d060g	/m/0m491	/m/01vlj1g	/m/041rx	
+0
+1
+/m/05ztm4r	/m/022q4l9	/m/04b2qn	/m/0gq9h	/m/03xp8d5	
