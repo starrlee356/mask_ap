@@ -84,8 +84,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -266,10 +265,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
 2
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -346,12 +345,11 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -505,10 +503,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -849,7 +844,6 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
@@ -900,100 +894,107 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
+0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-3
+1
 strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
@@ -1367,7 +1368,9 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -1769,11 +1772,9 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
 0
-1
-strict	concept:sportsgameteam	
+0
+0
 0
 0
 0
@@ -1976,10 +1977,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -2200,7 +2198,9 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -2318,10 +2318,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -2335,15 +2332,9 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
+0
 0
 0
 0
@@ -2997,7 +2988,9 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -3672,7 +3665,9 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -4156,7 +4151,10 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -4411,7 +4409,10 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -4673,7 +4674,10 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -4734,12 +4738,11 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
-0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -5297,10 +5300,7 @@ strict	concept:statelocatedingeopoliticallocation	concept:subpartoforganization
 2
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -5347,10 +5347,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -5629,8 +5626,13 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -5792,7 +5794,8 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+1
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -6024,8 +6027,12 @@ strict	concept:statelocatedingeopoliticallocation	concept:subpartoforganization
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
+1
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -6060,10 +6067,7 @@ strict	concept:sportfansincountry	{concept:citylocatedingeopoliticallocation}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -6880,7 +6884,8 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -7205,25 +7210,16 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 3
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
+0
+0
+0
 0
 0
 0
@@ -7287,7 +7283,8 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -7340,10 +7337,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
 0
 0
 0
@@ -7503,10 +7497,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -7579,9 +7570,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	concept:teamplaysagainstteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-2
-strict	concept:sportsgameteam	concept:teamplaysagainstteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -7716,7 +7705,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -7799,10 +7791,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -7823,7 +7812,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -7974,9 +7966,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -8054,7 +8044,10 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -8732,12 +8725,12 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
 2
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
 0
 0
 0
@@ -8778,10 +8771,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -8813,10 +8803,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 3
 strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
 strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
@@ -8844,10 +8831,7 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -8876,10 +8860,7 @@ strict	concept:teamhomestadium	{concept:leaguestadiums}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -8992,7 +8973,8 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -9038,7 +9020,8 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -9116,8 +9099,7 @@ strict	{concept:teamplayssport}^-1	concept:agentactsinlocation
 strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
 0
 0
-1
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
 0
 0
 0
@@ -9134,8 +9116,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -9276,6 +9257,177 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+strict	concept:teamhomestadium	{concept:leaguestadiums}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	concept:sportsgameteam	concept:teamplaysagainstteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 3
@@ -9287,177 +9439,6 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopo
 0
 0
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-strict	concept:teamhomestadium	{concept:leaguestadiums}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-2
-strict	concept:sportsgameteam	concept:teamplaysagainstteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
 0
 0
 0
@@ -9971,397 +9952,397 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
 0
 0
 0
@@ -10414,7 +10395,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -10997,12 +10980,12 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
-0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -11119,7 +11102,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -11227,10 +11213,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 2
@@ -11411,8 +11394,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 3
@@ -11455,7 +11437,9 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -12008,7 +11992,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -12169,7 +12155,10 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -12328,7 +12317,10 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -12388,8 +12380,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -12494,11 +12485,11 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 3
@@ -12757,8 +12748,7 @@ strict	concept:sportfansincountry	{concept:citylocatedingeopoliticallocation}^-1
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -12766,10 +12756,7 @@ strict	concept:sportsgameteam
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -13099,8 +13086,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -13161,11 +13147,11 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
 3
-strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -13436,7 +13422,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -13648,9 +13637,7 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-2
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -13674,10 +13661,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -13778,8 +13762,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -13940,7 +13923,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -14250,10 +14236,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -14338,7 +14321,8 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -14487,7 +14471,9 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	concept:teamplaysagainstteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	concept:sportsgameteam	concept:teamplaysagainstteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -14724,9 +14710,15 @@ strict	concept:teamhomestadium	{concept:leaguestadiums}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+3
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -15210,7 +15202,8 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -15364,7 +15357,10 @@ strict	concept:statelocatedingeopoliticallocation	concept:subpartoforganization
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -15392,8 +15388,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
 strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
 strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-1
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
 0
 0
 0
@@ -15469,7 +15464,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -15883,10 +15881,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -16008,10 +16003,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
@@ -16422,10 +16414,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -16501,16 +16490,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -17054,7 +17037,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+3
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
 0
 0
 0
@@ -17219,10 +17205,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
 0
 0
 0
@@ -17310,7 +17296,8 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -17643,12 +17630,12 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-1
+3
 strict	concept:sportsgameteam	
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -17754,7 +17741,10 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
-0
+3
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:citylocatedincountry	{concept:countryalsoknownas}^-1	
 0
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
@@ -17762,10 +17752,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 3
 strict	concept:sportfansincountry	{concept:sportfansincountry}^-1	
 strict	{concept:agentcontrols}^-1	{concept:sportfansincountry}^-1	
@@ -17848,7 +17835,10 @@ strict	concept:proxyfor	{concept:sportschoolincountry}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -17984,7 +17974,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -17993,9 +17986,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-2
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -18305,6 +18296,211 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 1
@@ -18350,167 +18546,6 @@ strict	concept:sportsgameteam
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
@@ -18518,56 +18553,6 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -19108,19 +19093,14 @@ strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation
 strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
 strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
 0
-1
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
+0
 0
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -19352,9 +19332,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -19618,7 +19596,9 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -19647,10 +19627,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -19686,13 +19663,13 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
 3
-strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
 3
 strict	concept:locationlocatedwithinlocation	concept:attractionofcity	
 strict	concept:hotelincity	concept:locationlocatedwithinlocation	
@@ -19706,7 +19683,10 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -19908,10 +19888,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -19967,10 +19944,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -20099,10 +20073,16 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
-0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -20151,8 +20131,14 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+3
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:citylocatedincountry	{concept:countryalsoknownas}^-1	
 0
 3
 strict	concept:sportsgameteam	
@@ -20298,10 +20284,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-3
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:citylocatedincountry	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -20616,11 +20599,11 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 0
 0
 0
+0
 3
 strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
 strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
 strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-0
 0
 0
 0
@@ -20756,9 +20739,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-2
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -21328,8 +21309,13 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -21407,7 +21393,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -21667,7 +21656,10 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -21767,7 +21759,9 @@ strict	concept:proxyfor	{concept:sportschoolincountry}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -21776,7 +21770,10 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 3
@@ -21891,11 +21888,11 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -22156,7 +22153,10 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -22983,8 +22983,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -23143,7 +23142,9 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -23189,62 +23190,6 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
 0
 0
 0
@@ -23255,36 +23200,6 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
 0
 0
 0
@@ -23407,10 +23322,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -23428,9 +23340,97 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-1
-strict	concept:sportsgameteam	
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 3
 strict	concept:sportsgameteam	
@@ -23477,7 +23477,10 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -23639,8 +23642,7 @@ strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1
 0
 0
 0
-1
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -23942,7 +23944,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -24416,7 +24421,10 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -24440,7 +24448,9 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -24584,10 +24594,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 3
@@ -24738,7 +24745,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+3
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
 0
 0
 0
@@ -24784,10 +24794,12 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-1
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -24840,10 +24852,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -24870,12 +24879,11 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-3
+2
+strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -25140,9 +25148,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-2
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -25410,7 +25416,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -25527,6 +25536,262 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 3
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
@@ -25534,264 +25799,12 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
-0
-0
-0
 2
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -26258,7 +26271,9 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -26286,7 +26301,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -26361,10 +26379,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -26462,10 +26477,7 @@ strict	concept:proxyfor	{concept:sportschoolincountry}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -26798,10 +26810,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
+0
 0
 0
 0
@@ -27012,7 +27021,10 @@ strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -27122,7 +27134,8 @@ strict	concept:teamhomestadium	{concept:leaguestadiums}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+1
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -27541,7 +27554,10 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -27574,10 +27590,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
+0
 0
 0
 0
@@ -27603,10 +27616,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:citylocatedincountry	{concept:countryalsoknownas}^-1	
+0
 0
 0
 3
@@ -27627,105 +27637,105 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
-0
 2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
+0
 0
 0
 0
@@ -27829,10 +27839,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -28111,8 +28118,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-1
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -28130,7 +28136,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -28226,10 +28235,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -28391,10 +28397,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -28412,7 +28415,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -28445,10 +28451,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -28463,11 +28466,11 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+0
+0
 1
 strict	concept:sportsgameteam	
-0
-0
-0
 0
 0
 0
@@ -28750,9 +28753,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -28783,7 +28784,9 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -28846,8 +28849,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -28972,10 +28974,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 3
@@ -29048,10 +29047,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -29237,7 +29233,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -29288,7 +29286,9 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -29460,8 +29460,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
@@ -29801,13 +29802,9 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-2
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
-2
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
+0
 0
 0
 0
@@ -29908,7 +29905,8 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+1
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -30118,7 +30116,9 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	concept:teamplaysagainstteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	concept:sportsgameteam	concept:teamplaysagainstteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 2
@@ -30262,7 +30262,10 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -30677,10 +30680,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -31113,7 +31113,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
 0
 0
 0
@@ -31225,8 +31228,13 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -31341,7 +31349,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -31447,8 +31458,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -32101,8 +32111,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-1
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -32326,10 +32335,7 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
+0
 0
 0
 0
@@ -32892,10 +32898,7 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -33041,10 +33044,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -33073,8 +33073,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-1
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -33250,10 +33249,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-3
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	concept:citylocatedincountry	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -33360,7 +33356,10 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -34206,7 +34205,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -35029,7 +35031,10 @@ strict	{concept:proxyfor}^-1	concept:statelocatedingeopoliticallocation
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -35409,7 +35414,10 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -36017,10 +36025,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 2
@@ -36153,8 +36158,13 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopo
 2
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -36354,7 +36364,10 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -36414,7 +36427,10 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -36549,8 +36565,7 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-1
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -36622,7 +36637,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -37171,7 +37189,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+strict	concept:citylocatedincountry	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -37242,7 +37263,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -37251,8 +37274,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -37748,13 +37770,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-1
-strict	concept:sportsgameteam	
+0
+0
 3
 strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
@@ -37958,7 +37977,9 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	concept:teamplaysagainstteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	concept:teamplaysagainstteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -38017,10 +38038,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -38130,10 +38148,7 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -38214,10 +38229,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 2
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -38567,7 +38579,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -38592,10 +38607,14 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -38709,7 +38728,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+3
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
 0
 0
 0
@@ -38978,7 +39000,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -39181,10 +39205,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
+0
 0
 0
 0
@@ -39212,10 +39233,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -39394,7 +39412,8 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -39891,10 +39910,7 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 0
 0
 0
@@ -39908,10 +39924,7 @@ strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticalloca
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
-3
-strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopoliticallocation}^-1	
+0
 0
 0
 0
@@ -39937,7 +39950,10 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countrylocatedingeopo
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -39949,6 +39965,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 3
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
@@ -40057,8 +40077,6 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
-0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
@@ -40066,7 +40084,8 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -40268,10 +40287,7 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-3
-strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -40460,11 +40476,13 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+0
+0
 1
 strict	concept:sportsgameteam	
-0
-0
-0
 0
 0
 0
@@ -40863,8 +40881,7 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -40974,7 +40991,9 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 2
 strict	concept:sportsgameteam	concept:teamplaysagainstteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	concept:teamplaysagainstteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -41202,7 +41221,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -41463,7 +41485,9 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+2
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -41512,7 +41536,9 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -41543,7 +41569,10 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -41565,7 +41594,9 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 2
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -41713,10 +41744,7 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 0
 0
 0
-3
-strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-strict	{concept:organizationhiredperson}^-1	{concept:countrylocatedingeopoliticallocation}^-1	
-strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
+0
 3
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
@@ -41853,7 +41881,10 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 strict	{concept:organizationhiredperson}^-1	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:citylocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -41962,7 +41993,10 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-0
+3
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
+strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
 3
@@ -42475,7 +42509,8 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 0
 0
 0
@@ -42602,7 +42637,8 @@ strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
-0
+1
+strict	concept:sportsgameteam	
 2
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
@@ -42780,7 +42816,10 @@ strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}
 strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
 strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
-0
+3
+strict	concept:countryalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:organizationalsoknownas	{concept:countrylocatedingeopoliticallocation}^-1	
+strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-1	
 0
 0
 0
@@ -42962,7 +43001,9 @@ strict	concept:statelocatedingeopoliticallocation	{concept:countryalsoknownas}^-
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
-0
+2
+strict	concept:sportsgameteam	
+strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 0
 0
 0
@@ -42981,9 +43022,7 @@ strict	concept:sportsgameteam
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -43349,8 +43388,7 @@ strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
 0
 0
-1
-strict	concept:sportsgameteam	
+0
 0
 0
 0
@@ -43415,10 +43453,7 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 0
 0
 0
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
+0
 0
 0
 0
@@ -43443,9 +43478,7 @@ strict	concept:agentcompeteswithagent	concept:agentactsinlocation
 strict	concept:sportsgameteam	
 strict	concept:sportsgameteam	{concept:teamplaysagainstteam}^-1	
 strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-2
-strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1	
-strict	{concept:teamplayssport}^-1	{concept:teamplaysagainstteam}^-1	
+0
 0
 0
 0
@@ -43495,78 +43528,75 @@ strict	{concept:teamplaysincity}^-1	{concept:teamplaysagainstteam}^-1
 0
 0
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
 3
 strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
 strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
 strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
-strict	{concept:teamplayssport}^-1	concept:agentactsinlocation	
-strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
 0
 0
 0
@@ -43773,7 +43803,9 @@ strict	concept:athleteledsportsteam
 0
 0
 0
-0
+2
+strict	{concept:subpartoforganization}^-1	concept:agentactsinlocation	
+strict	concept:agentcompeteswithagent	concept:agentactsinlocation	
 0
 0
 0

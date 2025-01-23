@@ -9,7 +9,10 @@ concept:sportsgame:series
 concept:city:pittsburgh	
 0
 0
-0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:dallas	
 0
 0
 0
@@ -40,7 +43,10 @@ concept:city:pittsburgh
 concept:sportsgame:series	
 concept:city:boston	concept:city:atlanta	
 concept:sport:basketball	
-0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:sport:football	
 0
 0
 0
@@ -80,7 +86,7 @@ concept:sport:basketball
 0
 0
 3
-concept:stateorprovince:florida	concept:stateorprovince:states	
+concept:stateorprovince:states	concept:stateorprovince:florida	
 concept:personmexico:ryan_whitney	
 concept:city:dublin_dublin	
 0
@@ -186,7 +192,7 @@ concept:sport:basketball	concept:sport:football
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 0
@@ -217,11 +223,14 @@ concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	conc
 0
 0
 2
-concept:city:columbia	concept:city:east_lansing	concept:city:evanston	
+concept:city:evanston	concept:city:columbia	concept:city:east_lansing	
 concept:sport:basketball	concept:sport:football	
 0
 0
-0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:boston	concept:city:pittsburgh	
 0
 0
 0
@@ -242,14 +251,17 @@ concept:sport:basketball	concept:sport:football
 concept:sportsgame:series	
 concept:city:boston	concept:county:los_angeles_county	
 concept:sport:football	
-0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:pittsburgh	
 0
 0
 0
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 0
@@ -282,7 +294,7 @@ concept:stateorprovince:states
 0
 3
 concept:sportsgame:series	
-concept:city:boston	concept:city:columbus	
+concept:city:columbus	concept:city:boston	
 concept:sport:basketball	concept:sport:football	
 0
 0
@@ -504,7 +516,7 @@ concept:city:boston	concept:county:los_angeles_county
 0
 0
 1
-concept:sportsteam:pistons	concept:sportsteam:trail_blazers	
+concept:sportsteam:trail_blazers	concept:sportsteam:pistons	
 0
 0
 0
@@ -619,15 +631,20 @@ concept:city:columbia	concept:city:atlanta	concept:city:pittsburgh
 concept:country:__america	
 concept:country:__america	
 concept:stateorprovince:states	
-0
+3
+concept:country:__america	
+concept:country:__america	
+concept:stateorprovince:states	
 0
 0
 0
 2
-concept:city:east_lansing	concept:city:columbus	concept:city:evanston	
+concept:city:columbus	concept:city:evanston	concept:city:east_lansing	
 concept:sport:basketball	concept:sport:football	
 0
-0
+2
+concept:city:winston_salem	concept:city:tallahassee	
+concept:sport:basketball	
 0
 0
 0
@@ -771,9 +788,7 @@ concept:sport:football
 0
 0
 0
-2
-concept:sportsgame:series	
-concept:sportsgame:series	
+0
 0
 0
 0
@@ -786,9 +801,7 @@ concept:sport:football
 0
 0
 0
-2
-concept:sportsgame:series	
-concept:sportsgame:series	
+0
 0
 0
 0
@@ -902,7 +915,7 @@ concept:city:boston	concept:county:los_angeles_county
 0
 3
 concept:sportsgame:series	
-concept:city:orlando	concept:city:atlanta	concept:city:dallas	
+concept:city:dallas	concept:city:atlanta	concept:city:orlando	
 concept:sport:basketball	
 0
 0
@@ -1014,10 +1027,13 @@ concept:sport:football
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
-0
+3
+concept:country:__america	
+concept:country:__america	
+concept:stateorprovince:states	
 0
 0
 0
@@ -1052,7 +1068,7 @@ concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	conc
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
@@ -1076,10 +1092,10 @@ concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay
 concept:sportsgame:series	
 concept:sport:basketball	concept:sport:football	
 0
-2
-concept:sportsgame:series	
-concept:sportsgame:series	
 0
+2
+concept:city:tallahassee	
+concept:sport:basketball	
 0
 0
 0
@@ -1263,7 +1279,7 @@ concept:sport:basketball
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 0
@@ -1304,7 +1320,7 @@ concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	conc
 0
 0
 2
-concept:city:atlanta	concept:city:columbus	
+concept:city:columbus	concept:city:atlanta	
 concept:sport:basketball	
 0
 0
@@ -1383,7 +1399,7 @@ concept:sport:basketball
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
@@ -1391,8 +1407,10 @@ concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
-0
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
+2
+concept:sportsgame:series	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
@@ -1422,23 +1440,14 @@ concept:sportsgame:series
 concept:city:boston	concept:county:los_angeles_county	
 0
 0
-3
-concept:sportsgame:series	
-concept:sportsgame:series	
-concept:city:boston	concept:city:pittsburgh	
+0
 0
 1
 concept:stateorprovince:states	
 0
-3
-concept:country:__america	
-concept:country:__america	
-concept:stateorprovince:states	
 0
-3
-concept:country:__america	
-concept:country:__america	
-concept:stateorprovince:states	
+0
+0
 0
 0
 0
@@ -1469,10 +1478,7 @@ concept:sportsgame:series
 concept:city:westwood	
 concept:sport:softball	
 0
-3
-concept:sportsgame:series	
-concept:sportsgame:series	
-concept:city:pittsburgh	
+0
 0
 0
 0
@@ -1623,7 +1629,7 @@ concept:person:duke
 0
 3
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 concept:sport:football	
 0
 0
@@ -1720,17 +1726,22 @@ concept:city:tampa_bay	concept:county:los_angeles_county
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
-0
+2
+concept:sportsgame:series	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
-0
+3
+concept:country:__america	
+concept:country:__america	
+concept:stateorprovince:states	
 0
 0
 0
@@ -1795,11 +1806,11 @@ concept:sportsteam:ncaa_mens_midwest_regionals
 concept:sportsgame:series	
 concept:sportsgame:series	
 concept:city:boston	
-0
 3
 concept:sportsgame:series	
-concept:sportsgame:series	
+concept:city:boston	concept:city:atlanta	
 concept:sport:basketball	
+0
 0
 0
 0
@@ -2069,12 +2080,13 @@ concept:sport:basketball
 0
 0
 2
-concept:city:atlanta	concept:city:columbus	
+concept:city:columbus	concept:city:atlanta	
 concept:sport:basketball	
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:boston	concept:county:los_angeles_county	
 0
-2
-concept:city:new_orleans	
-concept:sport:basketball	concept:sport:football	
 0
 0
 0
@@ -2227,9 +2239,7 @@ concept:sportsteam:ncaa_mens_midwest_regionals
 concept:sportsgame:series	
 concept:sportsgame:series	
 0
-2
-concept:sportsgame:series	
-concept:sportsgame:series	
+0
 0
 0
 0
@@ -2247,17 +2257,17 @@ concept:country:__america
 concept:country:__america	
 concept:stateorprovince:states	
 0
-0
+3
+concept:country:__america	
+concept:country:__america	
+concept:stateorprovince:states	
 0
 0
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
 concept:city:boston	concept:county:los_angeles_county	
-3
-concept:sportsgame:series	
-concept:city:atlanta	
-concept:sport:basketball	concept:sport:football	
+0
 0
 0
 0
@@ -2269,12 +2279,15 @@ concept:sport:basketball	concept:sport:football
 2
 concept:city:westwood	
 concept:sport:softball	
-0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:county:los_angeles_county	
 0
 0
 0
 3
-concept:stateorprovince:florida	concept:stateorprovince:states	
+concept:stateorprovince:states	concept:stateorprovince:florida	
 concept:personmexico:ryan_whitney	
 concept:city:dublin_dublin	
 0
@@ -2538,7 +2551,7 @@ concept:city:barcelona
 0
 3
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 concept:sport:football	
 0
 0
@@ -2563,7 +2576,7 @@ concept:stateorprovince:states
 0
 0
 2
-concept:city:east_lansing	concept:city:columbus	concept:city:evanston	
+concept:city:columbus	concept:city:evanston	concept:city:east_lansing	
 concept:sport:basketball	concept:sport:football	
 0
 0
@@ -2609,10 +2622,11 @@ concept:sportsgame:series
 concept:sportsgame:series	
 concept:city:boston	
 0
-2
-concept:sportsgame:series	
-concept:sport:football	
 0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:boston	concept:county:los_angeles_county	
 0
 0
 0
@@ -2659,8 +2673,14 @@ concept:sportsgame:series
 concept:sportsgame:series	
 concept:city:boston	concept:county:los_angeles_county	
 0
-0
-0
+3
+concept:sportsgame:series	
+concept:city:columbia	
+concept:sport:football	
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:sport:basketball	concept:sport:football	
 0
 0
 0
@@ -2964,9 +2984,7 @@ concept:sportsteam:michigan_state
 2
 concept:sportsgame:series	
 concept:sportsgame:series	
-2
-concept:sportsgame:series	
-concept:sportsgame:series	
+0
 0
 0
 0
@@ -3047,9 +3065,14 @@ concept:stateorprovince:states
 0
 0
 2
-concept:city:atlanta	concept:city:columbus	
+concept:city:columbus	concept:city:atlanta	
 concept:sport:basketball	
 0
+0
+0
+2
+concept:city:new_orleans	
+concept:sport:basketball	concept:sport:football	
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
@@ -3059,10 +3082,7 @@ concept:city:boston
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	
-0
-0
-0
+concept:city:pullman	
 0
 3
 concept:sportsgame:series	
@@ -3070,7 +3090,10 @@ concept:sportsgame:series
 concept:city:atlanta	
 0
 0
-0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
@@ -3159,7 +3182,7 @@ concept:sport:basketball	concept:sport:football
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 0
@@ -3208,6 +3231,13 @@ concept:city:boston
 0
 0
 0
+0
+0
+2
+concept:sportsgame:series	
+concept:sportsgame:series	
+1
+concept:sportsgame:series	
 0
 0
 2
@@ -3273,14 +3303,10 @@ concept:sportsgame:series
 0
 0
 0
-0
-0
-0
-0
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
@@ -3345,10 +3371,7 @@ concept:sport:basketball
 0
 0
 0
-3
-concept:sportsgame:series	
-concept:city:boston	
-concept:sport:football	
+0
 0
 0
 0
@@ -3484,7 +3507,7 @@ concept:sport:football
 0
 0
 2
-concept:city:columbia	concept:city:east_lansing	concept:city:columbus	
+concept:city:columbus	concept:city:columbia	concept:city:east_lansing	
 concept:sport:basketball	
 0
 0
@@ -3563,8 +3586,7 @@ concept:sport:basketball
 concept:sportsteam:ncaa_mens_midwest_regionals	
 0
 0
-1
-concept:company:los_angeles	concept:company:new_york	concept:city:washington_d_c	
+0
 0
 0
 0
@@ -3641,14 +3663,13 @@ concept:sportsgame:series
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
-0
-3
+2
 concept:sportsgame:series	
-concept:city:columbia	concept:city:boston	
-concept:sport:football	
+concept:sportsgame:series	
+0
 0
 0
 0
@@ -3708,10 +3729,7 @@ concept:country:__america
 concept:stateorprovince:states	
 0
 0
-3
-concept:country:__america	
-concept:country:__america	
-concept:stateorprovince:states	
+0
 0
 0
 0
@@ -4095,9 +4113,7 @@ concept:sportsgame:series
 concept:sportsgame:series	
 concept:county:los_angeles_county	
 0
-2
-concept:city:columbia	concept:city:east_lansing	concept:city:evanston	
-concept:sport:basketball	concept:sport:football	
+0
 0
 0
 0
@@ -4132,13 +4148,12 @@ concept:sport:basketball	concept:sport:football
 0
 1
 concept:sportsgame:series	
+2
+concept:city:columbus	concept:city:evanston	concept:city:east_lansing	
+concept:sport:basketball	concept:sport:football	
 0
 0
 0
-3
-concept:sportsgame:series	
-concept:sportsgame:series	
-concept:city:boston	
 0
 0
 0
@@ -4178,7 +4193,10 @@ concept:city:boston
 concept:sportsgame:series	
 concept:sportsgame:series	
 concept:sport:football	
-0
+3
+concept:sportsgame:series	
+concept:city:boston	concept:city:columbia	
+concept:sport:football	
 0
 0
 0
@@ -4283,17 +4301,14 @@ concept:museum:institute
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
-0
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:kansas	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:states	
+concept:stateorprovince:states	
 0
-3
-concept:stateorprovince:florida	concept:stateorprovince:states	
-concept:personmexico:ryan_whitney	
-concept:city:dublin_dublin	
+0
+0
 0
 0
 0
@@ -4340,7 +4355,7 @@ concept:city:dublin_dublin
 0
 0
 1
-concept:sportsteam:pistons	concept:sportsteam:trail_blazers	
+concept:sportsteam:trail_blazers	concept:sportsteam:pistons	
 0
 0
 0
@@ -4378,33 +4393,19 @@ concept:sport:football
 0
 3
 concept:sportsgame:series	
+concept:sportsgame:series	
+concept:sport:basketball	
+0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:sport:football	
+0
+0
+3
 concept:sportsgame:series	
 concept:city:boston	
-0
-3
-concept:sportsgame:series	
-concept:sportsgame:series	
 concept:sport:football	
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-3
-concept:sportsgame:series	
-concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	
-0
-0
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
@@ -4419,6 +4420,29 @@ concept:sport:basketball
 0
 0
 0
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:boston	concept:county:los_angeles_county	
+3
+concept:sportsgame:series	
+concept:city:boston	concept:city:atlanta	
+concept:sport:basketball	
+3
+concept:sportsgame:series	
+concept:sportsgame:series	
+concept:city:dallas	concept:city:atlanta	concept:city:orlando	
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
 0
 0
 0
@@ -4443,7 +4467,7 @@ concept:sport:basketball
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 0
@@ -4674,7 +4698,7 @@ concept:city:boston	concept:county:los_angeles_county
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
@@ -4687,12 +4711,7 @@ concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
-3
-concept:country:__america	
-concept:country:__america	
-concept:stateorprovince:states	
-0
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 3
@@ -4700,6 +4719,11 @@ concept:country:__america
 concept:country:__america	
 concept:stateorprovince:states	
 0
+3
+concept:country:__america	
+concept:country:__america	
+concept:stateorprovince:states	
+0
 0
 0
 0
@@ -4736,13 +4760,10 @@ concept:stateorprovince:states
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
-3
-concept:stateorprovince:florida	concept:stateorprovince:states	
-concept:personmexico:ryan_whitney	
-concept:city:dublin_dublin	
+0
 0
 0
 0
@@ -4813,7 +4834,7 @@ concept:stateorprovince:states
 3
 concept:country:__america	
 concept:country:__america	
-concept:stateorprovince:south_dakota	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:czestochowa	concept:stateorprovince:skierniewice	concept:stateorprovince:kansas	concept:stateorprovince:opole	concept:stateorprovince:florida	concept:stateorprovince:tennessee	concept:stateorprovince:north_moravia	concept:stateorprovince:states	
+concept:stateorprovince:tennessee	concept:stateorprovince:kansas	concept:stateorprovince:jihocesky_kraj	concept:stateorprovince:south_dakota	concept:stateorprovince:states	concept:stateorprovince:florida	concept:stateorprovince:opole	concept:stateorprovince:czestochowa	concept:stateorprovince:north_moravia	concept:stateorprovince:skierniewice	
 0
 0
 0
@@ -5010,7 +5031,7 @@ concept:city:boston	concept:county:los_angeles_county
 3
 concept:sportsgame:series	
 concept:sportsgame:series	
-concept:city:boston	concept:county:los_angeles_county	concept:city:tampa_bay	
+concept:city:boston	concept:city:tampa_bay	concept:county:los_angeles_county	
 0
 0
 0
